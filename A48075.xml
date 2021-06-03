@@ -1,0 +1,1671 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The ladies behaviour a dialogue / written originally in Italian, above an hundred and fifty years agoe.</title>
+         </titleStmt>
+         <extent>Approx. 154KB of XML-encoded text transcribed from 81 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48075</idno><idno type="EEBO-CITATION">12493048</idno>
+  <idno type="VID">62421</idno>
+  <idno type="EEBO-PROQUEST">2240954616</idno>
+  
+            <idno type="STC">Wing L150</idno>
+            <idno type="STC">ESTC R23098</idno>
+            <idno type="OCLC">12493048</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48075)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 62421)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 638:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The ladies behaviour a dialogue / written originally in Italian, above an hundred and fifty years agoe.</title>
+               </titleStmt>
+               <extent>[6], 154 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and are to be sold by Randall Taylor ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:62421:1"/>
+            <p>THE Ladies Behaviour. A DIALOGUE.</p>
+            <p>Written, Originally in <hi>ITALIAN,</hi> ABOVE An Hundred and Fifty Years agoe.</p>
+            <p>
+               <hi>LONDON,</hi> Printed, and are to be sold by <hi>Ran<g ref="char:EOLhyphen"/>dall Taylor,</hi> near <hi>Stationers-Hall.</hi> 1693.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:62421:2"/>
+            <pb facs="tcp:62421:2"/>
+            <head>To the Fair Sex.</head>
+            <p n="1">
+               <hi>I</hi> Humbly present you, Ladies, with a small Piece, which (if not spoyl'd in the Translation) will, I hope, not only give you some diversion, but be usefull to you all; whether you profess the most rigid Vertue, or give greater indulgence to your Appetites. And happy shall I think my self, if I can be any way serviceable to you; who have ever had so high an Esteem for you, that in my for<g ref="char:EOLhyphen"/>mer years, my whole Life was a Passion: Nor am I now without the greatest Vene<g ref="char:EOLhyphen"/>ration for you imaginable.</p>
+            <p>I should not forestall you with any ac<g ref="char:EOLhyphen"/>count of the following Dialogue, but that I think it necessary to answer some Ob<g ref="char:EOLhyphen"/>jections that may be made against it. For
+<pb facs="tcp:62421:3"/>example; It may be thought an Omission, that I have not turn'd that part which relates to Dressing, wholly according to the Modern custom; But truly (besides that I was willing, by leaving most of it as I find it, to give you some taste of the an<g ref="char:EOLhyphen"/>cient way of Dressing) I thought it need<g ref="char:EOLhyphen"/>less; because two or three hours Medita<g ref="char:EOLhyphen"/>tion every Morning, with as many employ'd in practising the Results, renders most of you perfect enough in that Mystery. Some few particulars of their Cloathing I have left out, because they could not be made very intelligible in <hi>English.</hi> Others may be shock'd perhaps at the sight of an anci<g ref="char:EOLhyphen"/>ent decay'd Lady, whom I may call a sort of a Meet-help, not to give her a broader name: but there is no reason to be <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffen<g ref="char:EOLhyphen"/>ded at her; the Woman's a good Woman in her kind; and there may be an admira<g ref="char:EOLhyphen"/>ble use made of her. For she teaches those whose Constitution enclines them to follow their pleasures, with too great an impetuo<g ref="char:EOLhyphen"/>sity, and with too great a carelesness of
+<pb facs="tcp:62421:3"/>their reputation; She teaches them, I say, to enjoy them with such a Temperance, and with such a Conduct, as may be the least Scandalous, give the least Jealousie and Disquiet to their Family, and conse<g ref="char:EOLhyphen"/>quently do them the less Injury, besides the giving, no ill Examples: Whereas their Youth, uninstructed and guided by too ea<g ref="char:EOLhyphen"/>ger an Appetite, (always lodg'd in some naughty corner about 'em) would proba<g ref="char:EOLhyphen"/>bly hurry them into a thousand inconve<g ref="char:EOLhyphen"/>niences and hazards to themselves and o<g ref="char:EOLhyphen"/>thers. Nor is there any danger that these Precepts should hurt or mislead the Vertuous: (which are, I presume, by much the most numerous part of your Sex:) True Vertue is high proof against all the Batteries of Vice, whether in your own Blood, or from us; nor dare the boldest of us attack it. You have very sel<g ref="char:EOLhyphen"/>dom, if ever, known Assaults made against her that's reputed truly Chast; For a vi<g ref="char:EOLhyphen"/>tious Man cannot approach, at least not endure the bright and awfull Regards of
+<pb facs="tcp:62421:4"/>Sacred Vertue; no'ne but a Maid can look against the Sun; neither Men nor Books can hurt you, without you please; You must betray your selves, like the first Woman, if you fall. Therefore let me intreat you all, to read this little Work, which has not one word in it to offend the tenderest Ear. You that are the most rais'd above Vice, will not find it without many usefull In<g ref="char:EOLhyphen"/>structions for you; and those that are of a lower Character, will see directions for their wiser Conduct. That the former of you may ever stand firm as you are, and the rest grow discreeter, is the earnest and sincere Wish of,</p>
+            <closer>
+               <salute>LADIES,</salute>
+               <signed>
+                  <hi>Your most zealously Affectioned, and most humble Servant,</hi> &amp;c.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:62421:4"/>
+            <head>THE DIALOGUE.</head>
+            <stage>The Speakers are, <hi>Madam</hi> Raffaella <hi>and</hi> Margarita.</stage>
+            <sp>
+               <speaker>Mad. Raff.</speaker>
+               <p>GOod day to you, <hi>Mar<g ref="char:EOLhyphen"/>garita;</hi> what, at your Embroidery! God bless those Hands of yours, I always find 'em well em<g ref="char:EOLhyphen"/>ploy'd.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>O welcom Madam <hi>Raffaella!</hi> 'tis a great while since you have been to sit with me; how have you done?</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>As you see, full of sin, and the troubles of old age.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>Sit down by me; but how is't?</p>
+            </sp>
+            <sp>
+               <pb n="2" facs="tcp:62421:5"/>
+               <speaker>M. R.</speaker>
+               <p>Old and poor; my Head bends daily nearer to my Grave.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>O, don't talk of that; for the young must dye as well as the old, when God pleases.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>Death concerns me little; I am ev'ry way readier for it to day than I shall be to morrow: What should I do in this world? my ex<g ref="char:EOLhyphen"/>tream poverty requires a great deal of patience; though 'tis hard to be poor and nobly born, as I am: but my greatest grief is to find my self full of sin, and that every day I con<g ref="char:EOLhyphen"/>tract more.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>What must I think of others, then, if I believ'd you (who I al<g ref="char:EOLhyphen"/>ways took for a Saint) to have so many sins? and pray, what sins can you be guilty of, who I always see with your <hi>Pater-noster</hi> in your hands, and who are all day long at yonder Churches?</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>I cannot deny, but that my
+<pb n="3" facs="tcp:62421:5"/>only consolation is to hear Mass, and St. <hi>Frances</hi>'s Offices, which I never wil<g ref="char:EOLhyphen"/>lingly omit. But, alas! what is that to so many sins, as are every day com<g ref="char:EOLhyphen"/>mitted?</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>No more of this; I doubt not but you'll go strait to Paradise. But, prithee, why don't you come so often as you us'd to do to see me?</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>I'll tell you the truth, Daugh<g ref="char:EOLhyphen"/>ter: I have often forborn to come hi<g ref="char:EOLhyphen"/>ther, because I know, that those who are old and poor, as I am, can only be troublesome where they go: But however, I have not neglected con<g ref="char:EOLhyphen"/>stantly to think on you, and to pray for all your House, when they say the <hi>Magnificat</hi> at St. <hi>Frances</hi>'s Vespers.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>You're in the wrong, Madam <hi>Raffaella,</hi> to imagin you can be trou<g ref="char:EOLhyphen"/>blesome when you come to my House; Nay, I take a great deal of pleasure in your Conversation; and you know what esteem my Mother had for you,
+<pb n="4" facs="tcp:62421:6"/>and what credit she gave to all your Words and Counsel, and they are of the same value to me.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>Alas! what comfort can one give so far advanced in Years, and so worn in the world?</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>It is as I say, and you know very well how I have always caress'd you.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>I know you have been kinder than I deserve.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>Then why don't you come oftner?</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>To tell you how the mat<g ref="char:EOLhyphen"/>ter stands, I am carefull to come as seldom hither as I can; not that I do not rejoice to see you, but because that I never come, that one thing or other does not fall out, which makes me sin against my Conscience.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>O! but why so?</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>I am asham'd, <hi>Margarita,</hi> to think on't, and more to speak; there<g ref="char:EOLhyphen"/>fore pray let me be gone.</p>
+            </sp>
+            <sp>
+               <pb n="5" facs="tcp:62421:6"/>
+               <speaker>Mar.</speaker>
+               <p>What, are you asham'd then to discourse of your affairs with me, and know that I have always look'd on you as a Mother?</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>How do I know it may not come to other peoples Ears?</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>You seem to have but little Faith in me, if you doubt that I will trust others with your secrets.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>Promise me to keep your tongue in your mouth then.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>Trust to my Faith, and speak freely; I cannot imagin what this may be.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>Then upon your word I'll discover my sin, which I have never reveal'd to any but my Confessor. Every time, <hi>Margarita,</hi> that I see you, and consider your Beauty and Youth, my memory presently recollects those past years when I was young; then remembring I did not make the use of that fair season, which I might have done, the Devil, to make me hang
+<pb n="6" facs="tcp:62421:7"/>my self (I think) loads my Consci<g ref="char:EOLhyphen"/>ence with that remorse and displeasure, as makes me the remainder of the day, like a desperate wretch, incapa<g ref="char:EOLhyphen"/>ble of hearing Mass or the Offices, and of doing any good; and that I may not fall into this sin (as I told you) I forbear coming to you, as much as I can, for it lays a great weight on my Soul.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>How you make me wonder! I should never have thought this; but me-thinks the same thing shou'd hap<g ref="char:EOLhyphen"/>pen to you, when you are with others that are handsomer than I.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>I have not perceiv'd that any has done me so much harm (this way) as you; whether it is, that in truth, there is not now in <hi>Siena</hi> a Beau<g ref="char:EOLhyphen"/>ty comparable to yours, or that it proceeds from any other cause, but so it is.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>I think you grow every day better and devouter, Madam <hi>Raffa<g ref="char:EOLhyphen"/>ella,</hi>
+                  <pb n="7" facs="tcp:62421:7"/>since you make Conscience of so small a matter.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>It seems a small thing to you that have no such faults to re<g ref="char:EOLhyphen"/>member, and who cannot be said to have lost your time, this being your proper season of taking pleasures; but I wonder the Earth does not swallow me up.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>It wou'd be much worse to remember, having so employ'd my time.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>Do not say so, Child; think that I have a longer experience of the World than you, and know where the sting lyes in matters of Consci<g ref="char:EOLhyphen"/>ence.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>I believe you are knowing enough in these things, as my Mo<g ref="char:EOLhyphen"/>ther has often told me.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>Oh! how that blessed Soul, your Mother, trusted me; and, Hea<g ref="char:EOLhyphen"/>ven knows, what love I had for her; it cannot be told how I rejoiced in her.</p>
+            </sp>
+            <sp>
+               <pb n="8" facs="tcp:62421:8"/>
+               <speaker>Mar.</speaker>
+               <p>Who knows better than I, that she could not live without you?</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>We were related, for her Sister was Sister in Law to my Ne<g ref="char:EOLhyphen"/>phew.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>She has formerly told me so.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>Now you know, <hi>Margarita,</hi> why I have so long abandon'd your house.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>I should rather have laid it to any thing else.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>On th'other side it is not without a great remorse of Soul, that I forbear coming hither; for I think else, that I do not perform my Duty according to the Commands in the Epistle of the Mass.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>Why so?</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>How, why so? Don't you know, that the Lord says, in the Lady's Mass, <hi>Help your Neighbour?</hi> Wherefore I being old enough now, to know good from evil, ought to advertise and counsel the young, (espe<g ref="char:EOLhyphen"/>cially
+<pb n="9" facs="tcp:62421:8"/>those with whom I have any credit, as with thee) against many er<g ref="char:EOLhyphen"/>rors, which they are guilty of, by rea<g ref="char:EOLhyphen"/>son of their little experience of the World: they may easily incur ma<g ref="char:EOLhyphen"/>ny faults, that they learn of their Companions; which dangers I, and many other old people, through the scarcity of advice, and for want of being better inform'd, have too often known fatal to our selves: Therefore to prevent them in others, wou'd be true Charity.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>Since we are enter'd into this discourse, tell me a little, what things you judge, we young people, shou'd be chiefly advertifed of.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>Of many things; and a<g ref="char:EOLhyphen"/>mong others of this, (as I have for<g ref="char:EOLhyphen"/>merly told you) that if Pleasure is not moderately taken when people are young, they fall into such desperation when they are old, that they are ready to go quick to the Devil, as you see I am afraid of doing.</p>
+            </sp>
+            <sp>
+               <pb n="10" facs="tcp:62421:9"/>
+               <speaker>Mar.</speaker>
+               <p>And of what kinds are those pleasures you would have us take?</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>Of those which commonly delight young Ladies; as, going fre<g ref="char:EOLhyphen"/>quently to Entertainments, Banquets, and other Assemblies; wearing fine Cloaths; adorning themselves with Jewels, sweet Waters, and Perfumes; being in all the new fashions; endea<g ref="char:EOLhyphen"/>vouring to be thought handsome and witty, and to be belov'd; to hear Se<g ref="char:EOLhyphen"/>renades, and to see Balls made for Love of 'em; and other the like ho<g ref="char:EOLhyphen"/>nest Pleasures of such young Ladies as you are.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>You make me wonder at this, because I have always heard, that these things were rather esteem'd Sins than otherwise.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>I confess, Child, that may be call'd so, for the time wasted in it, or the affections too much set up<g ref="char:EOLhyphen"/>on it, which otherwise may be a thing in it self very holy and good. No
+<pb n="11" facs="tcp:62421:9"/>body can maintain, that we are born to dye without sin, or without any spot of the World. But because, by the example of all Men that have ever been, we know that (being created sinners) it is impossible that we should live wholly free from error; we ought to think that it is a thing more sup<g ref="char:EOLhyphen"/>portable, and that better deserves par<g ref="char:EOLhyphen"/>don of Heaven, to commit some slight faults in Youth, than to reserve them as I have done, to a time, that we are no longer able to do them; I enrage, and wast my self with desperation, which, beyond any other sin, puts one even into the Devil's Jaws. For as some infirmities of the Body (which all Men must pass through) are much less dangerous to the young, (as we see in the Meazles and Small-Pox) than to one more worn and decay'd; for when they come in Youth, they make the Body healthier and freer all the rest of ones life; so a certain frailty,
+<pb n="12" facs="tcp:62421:10"/>and sinfull inclination, that is born with all of us, is much less dangerous to the Soul, and renders the Life af<g ref="char:EOLhyphen"/>terwards more free and secure, if it is wasted and evaporated in the younger years, than if it is kept to break out, in that time when Wisdom and Tem<g ref="char:EOLhyphen"/>perance should be sought for, and practis'd.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>Then do you take it to be usefull, that at this age I live chear<g ref="char:EOLhyphen"/>fully, and take some pleasure.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>Most usefull and necessary; and if it were a proper time, I believe I could shew you, very particularly, what Life yours ought to be, and how far you should expand your self in your Pleasures; and I am sure you would say that I understood these things.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>What do you mean by the proper time? what have we else to do? By all means I must have you discourse a little on this subject, and
+<pb n="13" facs="tcp:62421:10"/>I cannot have a more convenient time; I am alone, and I think it does not much concern you to be gone; it is not yet the time of Vespers.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>Pardon me, I cannot stay with you to day, I must go and lay out some of your Money, your Cha<g ref="char:EOLhyphen"/>rity.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>What matter whether you lay it out to day or to morrow.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>Ah, <hi>Margarita!</hi> though you see me thus cloath'd, yet know, there is much affliction at my house, but I shew it as little as I can for shame; yet to disguise nothing from you, I can swear that often I have not one single loaf of bread at home.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>In fine, think not of going, you shall not want bread, nor any thing that I have; for certainly I have the greatest compassion in the World for one that is nobly born, and has not wherewithall to live.</p>
+            </sp>
+            <sp>
+               <pb n="14" facs="tcp:62421:11"/>
+               <speaker>M. R.</speaker>
+               <p>I thank you; but at this time pardon me, that I take my leave of you, I can return another day more at leasure.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>What do you rise for? I will not have you go upon any terms, I should mightily lament you.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>To what purpose more now than another time?</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>It concerns me much, that now you have kindl'd an eager desire of knowing this business, th<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> this day do not pass e'er I know most exactly your opinion.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>
+                  <hi>Margarita,</hi> I cannot deceive you; but, to tell you the truth, I do not know, whether all that I may have to say, would please all such young Ladies as you are; we cannot see into peoples Minds, their Sences differing, and every ones Inclinations too changing; how can I tell, that one time or other, you may not hap<g ref="char:EOLhyphen"/>pen to be offended with me, which
+<pb n="15" facs="tcp:62421:11"/>would be the greatest displeasure to me imaginable.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>No, no, there is no danger of that; I do not now begin to know you; and I know very well too, that your discourses turn always to the honour of Heaven, and to the profit of all that hear them.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>As to Heaven, I have for<g ref="char:EOLhyphen"/>merly told you, that it would be bet<g ref="char:EOLhyphen"/>ter (if it were practicable) never to give our selves any pleasures in the World, but to live always in fasts and disciplines. But in order to fly greater scandal hereafter, it is necessary to yield to the commission of this venial fault; that is, to take a little pleasure in Youth; which is easily wash'd a<g ref="char:EOLhyphen"/>way again with Holy-water; and that will answer or attone (without my repeating it any more to you) for all those things which I shall discourse of, that may seem to have some de<g ref="char:EOLhyphen"/>gree of sin; and then pre-supposing
+<pb n="16" facs="tcp:62421:12"/>all along, this Venial sin or frailty to be necessary; all care possible must be taken of procuring the honour and good opinion of the World; and that all these pleasures allow'd you, be manag'd with that dexterity and pru<g ref="char:EOLhyphen"/>dence, that no shame follow them.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>I am sure that I have more faith in you, than in all the World.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>And so you may, my Child; for I had rather lose this Neck-lace, the only thing of Value I have left, than say any thing that shou'd nor turn to your Honour and Advan<g ref="char:EOLhyphen"/>tage.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>Begin then.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>Upon this condition, that you will promise to hear quietly all that I have in my mind to tell you; and if it shall happen (as I do not believe it will) that in any thing, I shall not have fully satisfy'd you; do not interrupt me till the end of my discourse; then you are at liberty to
+<pb n="17" facs="tcp:62421:12"/>speak, or not, as you find occa<g ref="char:EOLhyphen"/>sion.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>Or if in your discourse, there shall arise any thing doubtfull, would you not have me freely ask you such questions as may occur to me?</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>Yes, provided you will fairly hear all that I have to say.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>I promise you that.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>Give me your hand upon't.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>There 'tis, now speak.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>Me-thinks I foresee, that in the midst of our discourse, your Hus<g ref="char:EOLhyphen"/>band, or some-body else, will enter and interrupt our design.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>No-body is to come now; and for my Husband, there is no dan<g ref="char:EOLhyphen"/>ger, he has been gone this two months to <hi>Valdombro,</hi> to over-look some of his Farms, and to receive Rents, and is not yet return'd.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>How! two months! and leave you alone so long together, in so fair a flower, and bloom of your youth.</p>
+            </sp>
+            <sp>
+               <pb n="18" facs="tcp:62421:13"/>
+               <speaker>Mar.</speaker>
+               <p>O Lord, this is nothing; I can safely swear, that for two years past, that I have been married, he has not been, put all the times together, four months with me.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>Alas! alas! what do you tell me? what treachery is this? I certainly concluded, finding you al<g ref="char:EOLhyphen"/>ways at home disconsolate and sad, that (as you stay'd to throw away such great Beauties as yours, so fool<g ref="char:EOLhyphen"/>ishly as you do) you at least enjoy'd continually your Husband's company; although indeed the Caresses and Plea<g ref="char:EOLhyphen"/>sures with a Husband, are as insipid and useless, as our Monk's diversions are to them. Alas! what have you told me? what will he do for the future, if he treats you thus in the freshness of your youth? I have a very great compassion for you; for I see most clearly, as in a Glass, how it will be with you hereafter; you will have cause to repent, to afflict
+<pb n="19" facs="tcp:62421:13"/>your self, and rage in such manner, that the desperation will endanger the very destruction of your Soul. How can you live (poor wretch) in this world?</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>I confess that it is grievous to me; but I always stick to the coun<g ref="char:EOLhyphen"/>sel my Mother gave me a little before she died.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>Good Lord! what errors are committed for want of experience! if you had seen Five-and-twenty or Thirty years more, you would have known, to your cost, his fault. But tell me a little, is your Husband kind and loving, the little time that he stays with you at <hi>Siena?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>All that I do is well done, he does not find fault with me for any thing; and this he does, because his nature forces him to do so, or I would say, through a careless stupi<g ref="char:EOLhyphen"/>dity, not for the love he bears me.</p>
+            </sp>
+            <sp>
+               <pb n="20" facs="tcp:62421:14"/>
+               <speaker>M. R.</speaker>
+               <p>I believe it; for if he lov'd you, he would not be so long away, nay he wou'd never leave you, espe<g ref="char:EOLhyphen"/>cially being very rich, and having no need of shamefully running away thus to <hi>Valdombro.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>That's true; and yet for fear of being one day accountable, I do not make those advantages, which his present indifference wou'd allow of.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>The more fool you; where would be the hazard, if you did make the most of him? Madam <hi>Lorena,</hi> your Sister in Law, and a thousand other ugly things, do so by theirs; and why not you, who are allow'd to be the most delicate Beauty this day in <hi>Siena?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>Now let us return to our business, Madam <hi>Raffaella:</hi> I believe truly that my good Stars sent you hi<g ref="char:EOLhyphen"/>ther to day for my comfort.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>Most certainly I was inspir'd to come, that so much beauty and
+<pb n="21" facs="tcp:62421:14"/>sweetness as yours, may not grow old at home, and rust with age. The chiefest thing, Daughter, that you are to look after, is, that where you meet with those pleasures that are now su<g ref="char:EOLhyphen"/>table to you, and proper for you, you be very carefull to take them with such art and discretion, that your Husband may be more ready to a<g ref="char:EOLhyphen"/>gree to them willingly, and easily to comply with you, than to have any suspicion of them; which you may easily bring to pass, if you are care<g ref="char:EOLhyphen"/>full to carry your self evenly, without shewing too great an eagerness and transport in any part of your life. Be sure to keep your self from any un<g ref="char:EOLhyphen"/>equal behaviour, for a sudden change of colour only may give him suspi<g ref="char:EOLhyphen"/>cions of he knows not who. If you happen to be where Feasts, or any other divertisements are discoursed of in the presence of your Husband, or others, do not shew any excessive de<g ref="char:EOLhyphen"/>sire,
+<pb n="22" facs="tcp:62421:15"/>or earnestness of going thither, but keep your inclinations to your self; nor speak of it, but as of a thing indifferent to you, and that does not much concern you. Or likewise, when at any of these entertainments, never stand in an amaze, or a thoughtfull posture, (like a picture on a Wall) as if your Soul were elevated or em<g ref="char:EOLhyphen"/>ploy'd, or your head full of fancies. With these instructions and others that your own Wit will suggest to you, you may have the same enjoyments, and a houshold peace with your Hus<g ref="char:EOLhyphen"/>band; the securing of which always, seems to me a thing to be much e<g ref="char:EOLhyphen"/>steem'd.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>I shall find but little difficulty in that, because (as I told you) he is the easiest tame man you ever saw; in these things I may dispose of my self as I please. I'll undertake to make him believe, that the light is the Lan<g ref="char:EOLhyphen"/>thorn: Nor have I any body else in
+<pb n="23" facs="tcp:62421:15"/>the house to mind, as Brothers and Sisters in Law, Nephews, Nieces or Cosens, and those kind of people.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>You have very good for<g ref="char:EOLhyphen"/>tune; for I have known many in the Country, whose Husbands are so ra<g ref="char:EOLhyphen"/>ging, firesome and devilish, that eter<g ref="char:EOLhyphen"/>nal brawling and scolding, makes their house like the habitation of the great Devil himself. But where the Sots can be brought off from this, by the Wives address; at last the greater their rage and their anger has been, so much the more it is turn'd upon themselves; for, in the end, the Wives make e'en what they will of them. Nevertheless, when a young Woman can (as I have told you) do at once what she will, and secure the quiet of her House, and keep well with her Husband, it is a very convenient thing, and extreamly necessary for their affairs.</p>
+            </sp>
+            <sp>
+               <pb n="24" facs="tcp:62421:16"/>
+               <speaker>Mar.</speaker>
+               <p>As to my Husband, every thing stands as well as may be; but tell me a little particularly, what i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is that you wou'd have the young Woman do, that you speak of.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>In the first place, it much delights, and becomes young Men and Women very well▪ to dress richly, gentilely, and with judgment; and chiefly the Ladies, because being soft and delicate, as they are, (who were created only to make the Miseries of the World, be the better supported; as I have often heard say, by a young Man of the <hi>Intronati,</hi> (call'd <hi>Lo Stor<g ref="char:EOLhyphen"/>dito</hi>) a great admirer of the Ladies;) It becomes them, I say, much best, because the neatness of Dressing suits better with their whiteness, and deli<g ref="char:EOLhyphen"/>cateness, than with the harshness, and a sort of robustness, which is in Men.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>Will you be a little more particular, Madam <hi>Raffaella,</hi> about this Dressing?</p>
+            </sp>
+            <sp>
+               <pb n="25" facs="tcp:62421:16"/>
+               <speaker>M. R.</speaker>
+               <p>I would have a young We man change her Cloaths very often, and miss no good fashion; and if she has judgment enough to invent a handsome one, it will be much to the purpose; but if her own judg<g ref="char:EOLhyphen"/>ment is not sufficient, let her stick to other people's, that are counted the best.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>What parts will you have a good fashion to consist of?</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>I would have it rich and gentile.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>In what does the richness consist?</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>Will you have me discourse of those things that suit, or properly belong to you; or of several others at the same time, as they are agree<g ref="char:EOLhyphen"/>able to the different qualities of other people?</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>Which you like best.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>I chiefly design to shew you those things that belong particu<g ref="char:EOLhyphen"/>larly
+<pb n="26" facs="tcp:62421:17"/>to you; but nothing seems more necessary to me, (in order to perform this) than to consider at the same time, of the different qualities of others: The reasons for which will easily appear to you.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>Be it so.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>I say then, that the richness of Dressing consists much, in taking diligent care, that the Linnen, the Cloth, and other Stuffs, be the very best that can be found; because Ha<g ref="char:EOLhyphen"/>bits of such course Cloth, as some wear, are to be despised: As for ex<g ref="char:EOLhyphen"/>ample, that of Madam <hi>Lorenza,</hi> (who, for a new fashion, has made a Gown of Cloth almost as course as that of the Monk's; for which she's laught at.)</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>Why almost as course as the Monk's, it is the very same.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>So much the worse. Besides, I would have the Cloaths made full and rich, avoiding such an extream
+<pb n="27" facs="tcp:62421:17"/>as would too much incommode the wearer. Now this ampleness is of consequence; for one cannot see an uglier sight, than some of our <hi>Siena</hi> Ladies, with their Cloaths made so short and scanty; which, though they hardly cover their breech, they hold up behind, as if they fear'd to daggle them in the dirt: And thus they walk the Streets with a furious haste, and straddle along, you'd think they had got the Devil between their legs: Per<g ref="char:EOLhyphen"/>haps they hold up their Cloaths that they may shew a pretty Foot; and, it may be, at the same time they disco<g ref="char:EOLhyphen"/>ver part of a great nasty Leg with torn Stockins: But I shall say more of them, when I come to those particu<g ref="char:EOLhyphen"/>lars.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>Me-thinks you have exactly describ'd my Sister in Law; though she tells me, she goes not thus out of poverty, but as thinking it more gen<g ref="char:EOLhyphen"/>tile and becoming.</p>
+            </sp>
+            <sp>
+               <pb n="28" facs="tcp:62421:18"/>
+               <speaker>M. R.</speaker>
+               <p>They all say so, make a Vertue of Necessity, and seem to do it on purpose, though in reality they are forced to't by Misery, Poverty, and Want. Now I would have these Habits, besides being thus large, (as I have told you) be full of Galloons, Cuttings, Embroideries, and such kind of Garnitures. And sometimes let 'em be plain, for this variety of Dress looks very sumptuous.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>I should rather think it a sign of a variable Brain, and of having but little stability and settledness, which would be no small blemish.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>Very true, if she shew'd this instability in her other behaviour; but if she's known to be wise and prudent in her other actions, this variety of Dressing (as I say) will all turn to her Greatness and Ornament.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>You put me in mind of <hi>La Bianchetta,</hi> who has the most fantastick Head was ever seen; among her other
+<pb n="29" facs="tcp:62421:18"/>whimsies, this Extravagant has dress'd her self six times a day to go to an As<g ref="char:EOLhyphen"/>sembly; and, repenting, has as often undress'd her self to stay at home.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>I have heard so. Then you must know, <hi>Margarita,</hi> that the rich<g ref="char:EOLhyphen"/>ness of Dressing consists, chiefly, in ha<g ref="char:EOLhyphen"/>ving always fresh new Cloaths; and never wearing one Suit, I would not say many Weeks, but at least not ma<g ref="char:EOLhyphen"/>ny Months.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>These rules, Madam <hi>Raffaella,</hi> seem to be fitter for a great Lady, or a Princess, than for a private Gentle-woman as I am. And though I may be counted rich, in comparison of the greatest part of the Ladies of <hi>Siena,</hi> yet this wou'd be too expensive to me.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>A Princess, or a great Lady, ought to be dress'd in the finest Gold and Silver Brochards, and to Embroi<g ref="char:EOLhyphen"/>der their Cloaths with Pearls, Dia<g ref="char:EOLhyphen"/>monds and Rubies; whereas I have
+<pb n="30" facs="tcp:62421:19"/>yet spoken to you of nothing finer than Cloth.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>That's true; but the Em<g ref="char:EOLhyphen"/>broideries, Galloons, and Cuttings that you mention, will come to a great deal of money.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>In fine I mean, (by what I say) according to possibility, and let them that cannot do so much, do what they can; all that is possible for them, endeavouring rather a little to exceed their ability.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>Go on then.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>I say then (returning to our business) that, it is an ugly thing to wear the same Cloaths a great while. But it is most scurvy, to see some peo<g ref="char:EOLhyphen"/>ple transform one Garment into ano<g ref="char:EOLhyphen"/>ther, either by Dying, Turning it, or otherwise. As I have known the Wife of one do, (who is now a Lord;) who, upon her Marriage having made a Gown of white Damask; turn'd it the inside outwards, after she had had
+<pb n="31" facs="tcp:62421:19"/>it several years, and that it was much worn; and thus she wore it five years longer on Sundays. But then its de<g ref="char:EOLhyphen"/>cays being too visible, she Dyes it of a kind of a Cinnamon colour, be<g ref="char:EOLhyphen"/>cause, we say, that in those sort of Co<g ref="char:EOLhyphen"/>lours, the holes are not so well seen as in white: And because that now too white did not so well agree with her age; and thus she wore it some years, till it began to be very tatter'd indeed; and then she resolves without any more adoe, lest it should be quite spoyl'd, to piece the worn part of it, with the remains of an old Violet Gown; and turning it again, she spots the best side with spots of the same Violet, and then covers it with cut Cloth; and that's its present condition, what's to follow will be seen in time: but I believe e'er this poor Damask is laid in its Grave, it must expose its infirmities some years longer in ano<g ref="char:EOLhyphen"/>ther form.</p>
+            </sp>
+            <sp>
+               <pb n="32" facs="tcp:62421:20"/>
+               <speaker>Mar.</speaker>
+               <p>I guess who she is.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>Enough of her. Now all that I have said to you (about the richness of Cloaths) must be accom<g ref="char:EOLhyphen"/>pany'd with a gentileness full of judg<g ref="char:EOLhyphen"/>ment, without which, the rest would be good for nothing.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>In what does that gentileness consist?</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>It consists chiefly of three things; the proper Colours, the con<g ref="char:EOLhyphen"/>veniency of the Wearer, and the Mo<g ref="char:EOLhyphen"/>tions.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>The Motions, Madam <hi>Raffa<g ref="char:EOLhyphen"/>ella,</hi> are parts of the Action; and we are now upon the subject of Dressing, and not of the Operations.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>I mean only those Motions that belong to the wearing of Cloaths, which we may call (if you please) the Behaviour; because the best fashi<g ref="char:EOLhyphen"/>on, without being well carry'd, would be most ugly.</p>
+            </sp>
+            <sp>
+               <pb n="33" facs="tcp:62421:20"/>
+               <speaker>Mar.</speaker>
+               <p>The Behaviour is more to the purpose.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>A young Lady, I say, must not dress her self with many Colours, and must chiefly avoid those that a<g ref="char:EOLhyphen"/>gree not well with one another, as Green with Yellow, and Red with Sky-colour, and other such improper colours of Ribands; for nothing is more unbecoming.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>I wish you would shew me the perfection of chusing Colours.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>You must not have above two Colours or three at most, and the ground of the Garment must be one of them, the rest must be in the Threads, Ribands, little Twists, Fringes, Cut<g ref="char:EOLhyphen"/>tings, and other Trimming. I do not speak exactly of them; but I mean by Dressing with many colours, what you see in your Neighbour, who wears a darkish grey Petticoat, a Vio<g ref="char:EOLhyphen"/>let Gown, Sky-colour'd Sleeves, and a green Girdle; you never saw any
+<pb n="34" facs="tcp:62421:21"/>thing look so ugly; and therefore I conclude, that the Cloaths (without the Trimmings) should be only of one colour, and that proper.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>How proper? I don't under<g ref="char:EOLhyphen"/>stand you.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>Proper to the circumstances and condition of her that wears 'em. Suppose she have a complexion pale and lively, let her avoid lively Colours, (except White) as Green, Yellow, live<g ref="char:EOLhyphen"/>ly changeable Colours, and all such. They that have a dead pale Com<g ref="char:EOLhyphen"/>plexion, should be almost always dress'd in Black; they that have a kind of a lively Red in their Face, which makes them always look hot, should wear dark Browns, or Greys. Red is generally a scurvy colour, and a<g ref="char:EOLhyphen"/>grees well with no complexion; and, on the contrary, White does well with most, (provided they be in the flower of their Youth,) and particularly with you. Much indeed might be said of
+<pb n="35" facs="tcp:62421:21"/>these things, but there cannot be gi<g ref="char:EOLhyphen"/>ven any clear and fixt rule for them. Wherefore it is necessary to rely upon their judgments who are to be dres<g ref="char:EOLhyphen"/>sed.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>This is enough of Colours. Now tell me something of the suta<g ref="char:EOLhyphen"/>bleness to, or the convenience of the person in which, secondly, you say the Gentileness consists.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>I'll shew you this in two words: A young Woman must take up such Fashions, as may shew to the best advantage, or improve those Parts of her which are the best and handsomest; and hide as much as possible, those which are worst, and most defective, and not do like Ma<g ref="char:EOLhyphen"/>dam <hi>Bridgett:</hi> but it is unnecessary to say any thing of this last to you, who have no part about you that is not excellent.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>Pray tell me what you was going to say of Madam <hi>Bridget<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="36" facs="tcp:62421:22"/>
+               <speaker>M. R.</speaker>
+               <p>She would needs take up a fashion of wearing her Sleeves so strait, as to shew plainly the shape of her Arms, which are so very small, that they are a most ugly sight; whereas if her Arms were of any proportiona<g ref="char:EOLhyphen"/>ble largeness, this might not be so un<g ref="char:EOLhyphen"/>reasonable a fashion. So your Neigh<g ref="char:EOLhyphen"/>bour over the way, who has great Shoulders like a Porter, has a custom of stuffing them out with so much Quilting, that she is the most ungain<g ref="char:EOLhyphen"/>ly creature in the World; and having Feet like any Plowman, by the trim<g ref="char:EOLhyphen"/>ming of her Shoes, she makes them look as big again. I could give you a thousand other Examples, but you may easily find them out your self; It is necessary indeed to repair the de<g ref="char:EOLhyphen"/>fects of Nature with Cotton, with Wastcoats, or by raising the Stature, and many other ways. But you who are handsome (to a Miracle) all over, should chuse that fashion, which may
+<pb n="37" facs="tcp:62421:22"/>the most plainly discover the clean and easie shape of all your Person, the freeness of your Arms, the majesty of your Shoulders, the disposition of your Hips, the smallness of your Feet, the fine proportion of your Legs, and so of the rest.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>Why need we take care of the Legs, which are not to be seen?</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>Pardon me, they are to be seen, but to be shewn with art and dexterity; we'll say more of them by and by, when we come to speak of the Motions, which is the third part belonging to Dressing.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>Why not now, since we have said enough of the sutableness of the Fashions?</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>I will first discourse, in a few words, on the Ornaments of the Head, and the fineness of Complexions, which I must have you allow to belong to Dressing, though they may seem a lit<g ref="char:EOLhyphen"/>tle different from it.</p>
+            </sp>
+            <sp>
+               <pb n="38" facs="tcp:62421:23"/>
+               <speaker>Mar.</speaker>
+               <p>Very well, proceed.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>You must know, <hi>Margarita,</hi> that no young Woman can have a Complexion so clear, white and deli<g ref="char:EOLhyphen"/>cate (without artificial additions) that it will not sometimes, by one accident or other, be lessen'd in its lustre. Nor is theirs a good reason, who say, That provided a Lady has naturally a fine Complexion, it is no matter, though it should be sometimes a little obscu<g ref="char:EOLhyphen"/>red. Wherefore, I conceive that she should continually make use of some excellent and precious Waters, that have little or no body; for which I can give you most rare and perfect Receipts.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>Then do you approve of those Sublimates, and Whites that are now in use?</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>They are much rather to be blamed; for what can look worse than a young Woman that has pla<g ref="char:EOLhyphen"/>ster'd her Face with so thick a Mask,
+<pb n="39" facs="tcp:62421:23"/>that one can hardly know her. And it is so much the worse, when she ig<g ref="char:EOLhyphen"/>norantly daubs her self, without know<g ref="char:EOLhyphen"/>ing what she's doing. And we have many such in this Country, who vaste every Morning a vast deal of this sub<g ref="char:EOLhyphen"/>limate, misplacing, and laying it on, in those parts, where it looks most ri<g ref="char:EOLhyphen"/>diculous.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>I saw Madam <hi>Giachetta</hi> (who lives in the <hi>Casato</hi>) upon Saint <hi>Martin</hi>'s day at an Entertainment, when she had so indecently be-daub'd her Face, that I assure you, her very Eyes did not seem to be her own; and the cold had made her Complexion so livid, and had so dry'd the Plaster, that the poor creature was fain to stand as stiff as a stake, not daring to move her head, without turning her whole body at the same time, for fear of cracking her Mask.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>Avoid those Plasters, as you would shun the fire.</p>
+            </sp>
+            <sp>
+               <pb n="40" facs="tcp:62421:24"/>
+               <speaker>Mar.</speaker>
+               <p>Every body indeed scorns and laughs at these nasty things; but it is needless to tell what Washes are good, and who uses them well, for every body knows them.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>Trust me, I shall tell you nothing but what I know; and if you will follow my advice, use nothing but the best Waters that can be got, and lay out as much as you can in them.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>I do constantly use an excel<g ref="char:EOLhyphen"/>lent Water.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>What Water?</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>I can't tell you that; but I buy it of an Apothecary, that lives at the Sign of the <hi>Galley,</hi> but he would never give me the Receipt.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>I understand you now, I know what Water 'tis, he sells it to a great many, almost every body uses the same, because it is very dear; and not only the Women, but our young Effeminate Beaux too, who better de<g ref="char:EOLhyphen"/>serve
+<pb n="41" facs="tcp:62421:24"/>to have been born Women than Men. That Water is made of Malmsy, White Vinegar, Honey, Lilly-flowers, Roman Beans, Verdigrease, dissolv'd Silver, <hi>Sal-gemmi,</hi> Salt of Glass, Roch-Allum, and Sugar Comfits, all Still'd in the Country; and, in truth, the Water's good enough: But for a Di<g ref="char:EOLhyphen"/>vine Water, I do not believe any in the World, (considering especially the great price) but most excellent and —</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>Let me know it, if you love me, Madam <hi>Raffaella.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>I cannot teach it you by any means, be satisfy'd that I'll make you some of it as often as you please, and it will make your Complexion as clear, white, and smooth, as possible.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>In short, I must have you give me the Receipt.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>I take first a couple of dis<g ref="char:EOLhyphen"/>member'd Pigeons, and then I take Venice Terebentine, Lilly-flowers, fresh Eggs, Honey, Sea-Snails, powder'd
+<pb n="42" facs="tcp:62421:25"/>Pearl and Camphire; I incorporate all these Ingredients together, and put them into the Pigeons, which I put into a Glass Limbeck, at a gentle fire. Then I take Musk, Amber, more Pearl and Leaf-silver, and grind these last Ingredients very fine, on a Por<g ref="char:EOLhyphen"/>phery; after which I put them into a linnen bag, which I tye to the Nose of the Limbeck, with a recipient Ves<g ref="char:EOLhyphen"/>sel underneath to receive the Water, which I let cool, and it becomes most excellent.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>I have not very well under<g ref="char:EOLhyphen"/>stood you.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>I believe you; but trouble not your self about it, for I'll always make you as much as you will, and teach you how to use it.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>I cannot but think very well of using these kind of Waters some<g ref="char:EOLhyphen"/>times. Nor is there a Lady in <hi>Siena,</hi> that does not use some kind of Paint, some finer, some courser; and I own
+<pb n="43" facs="tcp:62421:25"/>that to be like other people; I have some too, that is counted excellent, it is the same that's used by Madam <hi>Fio<g ref="char:EOLhyphen"/>retta, La Roffina,</hi> and others of your acquaintance.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>I know how this is made too, and will tell you the Receipt in two words: They take dissolved Sil<g ref="char:EOLhyphen"/>ver, and Quicksilver, and beat them in a Mortar; they add Cereuse, and burnt Rock-Allum, beaten first to powder by themselves, then they wet it all with Mastick-spittle, and boil it in Rain-water; after which they pour off the hot water, and throw the sub<g ref="char:EOLhyphen"/>limat into the Mortar: this they do three times still, throwing away the water, but let it remain the fourth time with the body: and this is what many Ladies use, who are not able to spend much money. But I can teach you how to make a kind so delicate and rare, that many Ladies would give money enough to know it; and
+<pb n="44" facs="tcp:62421:26"/>it is so well composed, that although it have something of a body, it is not to be perceived, and it agrees most perfectly with all Complexions.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>O Madam <hi>Raffaella,</hi> if you will oblige me, teach me how to make it.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>Is it not enough that I will always furnish you with it?</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>I must know the Ingredients, if no inconvenience to you.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>I'll tell 'em you then, though I know not whether you will under<g ref="char:EOLhyphen"/>stand me. Take dissolv'd Silver and Quicksilver, pass them through a Sieve; and incorporate them together, by beating them a whole day in a Mor<g ref="char:EOLhyphen"/>tar, with a little fine Sugar; then take it out of the Mortar, and grind it upon a Painter's Porphery; put it again in<g ref="char:EOLhyphen"/>to the Mortar, and temper it in the Morning fasting, with Mastick-spittle, and a little Oyl of sweet Almonds; let it stand thus wet a day, and tem<g ref="char:EOLhyphen"/>per
+<pb n="45" facs="tcp:62421:26"/>the whole again with Dittany<g ref="char:EOLhyphen"/>water: put it in a Flask, and boil it in a Water-bath: boil it thus four times, always throwing away the wa<g ref="char:EOLhyphen"/>ter; but the fifth time save all: take it out of the Flask, and put it into a glaz'd Earthen Vessel; and when it has stood long enough to be settled, pour off the water gently; and the sublimat remains at the bottom, which you must incorporate with Woman's Milk: scent it with Musk and Amber, and mingle it afterwards with Spring-water, and set it in a Cellar.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>This can't but be an excel<g ref="char:EOLhyphen"/>lent thing.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>I think truly, <hi>Margarita,</hi> there is not a better to be found, and I'll bring you a Flask to morrow and shew you the use of it.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>What is your opinion, Ma<g ref="char:EOLhyphen"/>dam <hi>Raffaella,</hi> of Oyls for smoothing the Skin?</p>
+            </sp>
+            <sp>
+               <pb n="46" facs="tcp:62421:27"/>
+               <speaker>M. R.</speaker>
+               <p>Oyls of all sorts are to be avoided, whether they be made of Rock-Allum, Common Allum, of Cereuse, of prepar'd Silver, of Olives, or, in fine, be they what they will; I'll grant you that sometimes in the Country, to maintain the Complexion, it may not be amiss to use a little Oyl of sweet Almonds, with Virgin's Wax, adding a little Camphire; though a little of the Water I told you of, has the same Effect, and is better.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>My Mother, when she came out of the Country, to take away Red<g ref="char:EOLhyphen"/>ness, used Verdigrease, with the White of an Egg, and slept with it plaster'd on her Face.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>O most nasty, perhaps most Ladies do the same, but be you warn'd never to meddle with those filthy things.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>What do you think of the custom that Madam <hi>Loretta, La Mas<g ref="char:EOLhyphen"/>charina,</hi> and many others have taken
+<pb n="47" facs="tcp:62421:27"/>up, of Painting their Face, by laying on Red; And how do you suppose they do it?</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>It is easily done: First they lay on the Red carefully, and then upon that they lay the White, I mean the Sublimate; which White, with that Red, produces the colour you see; It is a nasty way, and stays not on well; I do not think, that upon any terms, a Lady should Paint this way.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>What say you of Fumes?</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>Fumes of all sorts, whether of Hen's feathers, Egg-shells, or what<g ref="char:EOLhyphen"/>soever, are filthy things; and I would not have them used upon any terms neither, though they make a good complexion; In time they spoil the Teeth and the Sight, corrupt the Breath, and destroy the Health.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>You put me in mind of <hi>La Barribaginola,</hi> who has ne'er a good Tooth in her Head, and is not yet Two-and-twenty.</p>
+            </sp>
+            <sp>
+               <pb n="48" facs="tcp:62421:28"/>
+               <speaker>M. R.</speaker>
+               <p>Learn you from their Ex<g ref="char:EOLhyphen"/>amples; and the rather, for that the whiteness and beauty of the Teeth, give a Lady the greatest Grace imagi<g ref="char:EOLhyphen"/>nable; and one of these days I'll teach you a good Powder to maintain them.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>I shall esteem it very much, because I have heard there are some very excellent.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>How do you keep your Hands, <hi>Margarita?</hi> for fine Hands are much to be valu'd in a young Wo<g ref="char:EOLhyphen"/>man.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>I roast a Lemon and squeeze out the juyce; I put a little Sugar<g ref="char:EOLhyphen"/>candy to it, and scower with that.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>That's what all our Ladies now use; and it would be good enough, if in time it did not rivel the Skin: But I'll teach you a thing for them most excellent, and very easily pre<g ref="char:EOLhyphen"/>pared. Take Mustard-seed finely pow<g ref="char:EOLhyphen"/>der'd and sears'd, bitter Almonds pow<g ref="char:EOLhyphen"/>der'd
+<pb n="49" facs="tcp:62421:28"/>fine, and as much Honey as will make up a kind of an Electuary: daub your Hands with this at night, and put on a pair of as strait Sham<g ref="char:EOLhyphen"/>mois Gloves, as you can draw on; and in the Morning wash with fair water, and a little Oyl of Benjamin;— you will find an Effect that will please you.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>I'll try it within this two days.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>Now you must be advised upon the whole matter, not to do like many that I know, (and parti<g ref="char:EOLhyphen"/>cularly Madam <hi>Bridgett,</hi>) who look after nothing but their Face, and a lit<g ref="char:EOLhyphen"/>tle of their Bosom, (and as you see they are carefull enough of them,) and let the rest go as 'twill; so that all that is not seen is most shamefully dirty and nasty.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>O, Madam <hi>Raffaella!</hi> would you have a Woman use the same Wa<g ref="char:EOLhyphen"/>ters and Sublimates all over her.</p>
+            </sp>
+            <sp>
+               <pb n="50" facs="tcp:62421:29"/>
+               <speaker>M. R.</speaker>
+               <p>I don't say so, though some paint their Arms and Legs, and other Parts that are usually the least expos'd. But I would have a young Lady fre<g ref="char:EOLhyphen"/>quently wash her self all over with hot water that has had something Odorife<g ref="char:EOLhyphen"/>rous boyl'd in it; for you must take it for granted, that this delicacy and neatness, preserves and renews a Wo<g ref="char:EOLhyphen"/>man's beauty.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>What matter for those Parts that are not seen?</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>I shall speak of the seen and unseen in their proper places. But now I say, Suppose that one is never to be seen, yet by all means the clean<g ref="char:EOLhyphen"/>liness and neatness of the whole Person is to be taken care of; if not for o<g ref="char:EOLhyphen"/>thers, yet for the satisfaction of one's own Husband: besides, that dirtiness begets a filthy scent in a Woman, (which is a most shamefull thing,) and which I experienc'd a few nights agoe, lying by chance with M. <hi>Uti<g ref="char:EOLhyphen"/>nieri</hi>'s Wife.</p>
+            </sp>
+            <sp>
+               <pb n="51" facs="tcp:62421:29"/>
+               <speaker>Mar.</speaker>
+               <p>She seems to go neat enough.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>Yes, in her Face; but at all the rest I make the sign of the Cross: For as stately as she is, she has gather'd above her Girdle such a dirtiness and filth, as is the most nasty thing in the World; and which, I suppose, pro<g ref="char:EOLhyphen"/>ceeds from the Sublimate, that being often wash'd from her Bosom, falls down; and gathering here by little and little, fixes it self upon her Girdle, like a kind of Sand, and creates the most filthy scent that can be smelt.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>I should never have thought this of her who so much affects the Fine thing, as the nasty creature does. And now I remember, that being near her once at a Banquet, there came not a Dish to the Table that did not seem to stink.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>I have been too long per<g ref="char:EOLhyphen"/>haps upon this, and therefore must leave it off. It is enough for you to know, that a Lady is always to take
+<pb n="52" facs="tcp:62421:30"/>as much care of her cleanliness as she can, though she were never to stir out of her Chamber. But now I have something to say to you about Dres<g ref="char:EOLhyphen"/>sing the Head.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>I shall be glad to know your Sentiments about it, because some<g ref="char:EOLhyphen"/>times I have heard it spoken of very variously; some think that large Curls are very gracefull; others, that little ones are more becoming; and some would have none at all.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>Indeed the Curls, so little as are now worn, take off something from a Woman's Presence and Maje<g ref="char:EOLhyphen"/>sty; but those large ones, that were several years the fashion, are much worse. Therefore, I say, a young Woman should wear them something larger than the present fashion, but not much; especially those Women that have little Heads, and wear little or nothing upon 'em: Like my Neigh<g ref="char:EOLhyphen"/>bour by the <hi>Camollia;</hi> you know who
+<pb n="53" facs="tcp:62421:30"/>I mean, who has a Head like a Gold<g ref="char:EOLhyphen"/>finch, with a very little Face, and wears a little plain Quoif, without any Curls, and only a plain Vail over it, which makes her look like a Wren.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>I know who you speak of; and the Simpleton goes thus, because she is made believe that it looks more airy, and that she ought to make pro<g ref="char:EOLhyphen"/>fession of careless Dressing and neg<g ref="char:EOLhyphen"/>lect of her self. So that the silly crea<g ref="char:EOLhyphen"/>ture, believing that she does well, goes abroad most commonly with her Eyes glew'd together, which makes her look as if she never washed her Face with fair water.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>So much for her. Now as to the Quoifs, I would have them rich, gentile, and proportionable to the largeness of the Curls. And those La<g ref="char:EOLhyphen"/>dies that have bad Hair, may wear Towers; I would have the Ruffles very large, and handsomely made, like your fair Cosens, who lives by the <hi>Piazza Tolomei—</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="54" facs="tcp:62421:31"/>
+               <speaker>Mar.</speaker>
+               <p>Madam <hi>Cassilia</hi> too wears 'em very well, and one of the <hi>Intronati</hi> made a Sonnet upon 'em.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>I would have a Woman to spend money enough in her Smocks; wearing them of the best Linnen, fine<g ref="char:EOLhyphen"/>ly wrought, sometimes with Silk, some<g ref="char:EOLhyphen"/>times with Gold and Silver, but most commonly with Thread only, but wrought with a great deal of Art. It is very handsome and gentile, to have them finely gather'd at the Hands; but not after the slovenly way that some use, and which not long agoe was the fashion of Hostesses and Cham<g ref="char:EOLhyphen"/>ber-maids.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>Truly I hate that fashion as I do the Head-ach.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>Now we have discoursed e<g ref="char:EOLhyphen"/>nough for to day.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>Pray tell me how you would have Jewels and Neck-laces worn?</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>Moderately: but to be more particular, I would have about the
+<pb n="55" facs="tcp:62421:31"/>Neck a row of clear Pearl, large and round, and a Chain of about fifteen Crowns value, neatly Enamell'd, and joyn'd together with a Diamond of about sixty Crowns: I would have no other Jewels worn, unless a handsome Bracelet, which I neither praise nor discommend. Then I would have a young Lady wear Gloves of great price, and no other Persumes about her, for a mixture of Odours is dis<g ref="char:EOLhyphen"/>agreeable; which makes people hold their Noses at the two Sisters, that you know.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>You need not leave out <hi>La Bianchetta,</hi> who can never stand still in a place. But we have had enough of this. And pray speak to me now of the Motions, which, you say, is the third thing that belongs to Dressing, and which we have called by its pro<g ref="char:EOLhyphen"/>per name, <hi>the Behaviour.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>You must know, <hi>Margarita,</hi> that if a Woman's Cloaths are made
+<pb n="56" facs="tcp:62421:32"/>never so fashionable, with the best cho<g ref="char:EOLhyphen"/>sen Colours, proper and rich, and she does not know how to behave her self in them, she has done just nothing at all.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>Who does not know that, if the Cloaths are not faulty in them<g ref="char:EOLhyphen"/>selves?</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>Who is she that does not? You are but ill inform'd, they are in<g ref="char:EOLhyphen"/>numerable, who either, through ig<g ref="char:EOLhyphen"/>norance, for want of instruction, or through affectation, have taken up a certain Behaviour, with such silly Ge<g ref="char:EOLhyphen"/>stures and foolish Actions, as are the most disagreeable things in the World.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>Give me some Examples.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>Behold one without seeking far: Don't you see your Guest below, what a little mumping Mouth she makes up, and how she trips away in the Streets, as if she were dancing? Some, though loaded with Gold, are always troubling people with their
+<pb n="57" facs="tcp:62421:32"/>whining and complaints that they are not fine enough, but perhaps there are few of these in <hi>Siena;</hi> and some have so great a neglect of Decency, that they wear their Hair all gather'd and clotted about their Neck, while others suffer it to fall down their Backs, affecting carelesness; and some cover their Mouths always with their Vail: One goes so slow, that she consumes an hour between the <hi>Duomo</hi> and the <hi>Costarella;</hi> Another hurries on, wag<g ref="char:EOLhyphen"/>gling her Head like a Mad-woman; and another goes upright, and stiff as an Image: One holds up her Cloaths, and discovers stain'd, wrinkled Stock<g ref="char:EOLhyphen"/>ins; and another ridiculous Shoes; and some dress'd out like Peacocks, are never at rest, but gadding here and there continually, till at night they either Dance at a Ball, or, being Spectators, beat the time of the Lute all the while with their Head.</p>
+            </sp>
+            <sp>
+               <pb n="58" facs="tcp:62421:33"/>
+               <speaker>Mar.</speaker>
+               <p>What you say of the wrinkled Stockins, may be rather an accident than a custom.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>Enough of them: Besides these, there are some that go open<g ref="char:EOLhyphen"/>mouth'd, as if they were catching Flies: Some with their Eyes always upon their Feet; others like Star-ga<g ref="char:EOLhyphen"/>zers, always looking upward: Some always pulling off and putting on a Glove; One always biting a Lip, and others putting a tip of their Tongue out at a corner of their Mouth: One has a custom of this kind, and ano<g ref="char:EOLhyphen"/>ther of another, as you may your self observe.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>All this is very true, Madam <hi>Raffaella:</hi> But what's the reason these Sots don't perceive they do amiss?</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>There are many reasons for it; but this is a principal cause of it. These sort of Women of whom I have been speaking, hearing some of our <hi>Siena</hi> Ladies prais'd, and exalted to the
+<pb n="59" facs="tcp:62421:33"/>Heavens, they fancy, if they can but imitate them, they shall acquire the same praises; and then, like persons of little judgment, they take upon them to imitate some part of the o<g ref="char:EOLhyphen"/>thers Behaviour, which is blameable, or at least not to be commended; for no body can be perfect in every part. And these Mimicks think, that the o<g ref="char:EOLhyphen"/>thers reputation arises only from those parts which they imitate; and sup<g ref="char:EOLhyphen"/>pose that the higher they carry this imitation, the more they raise their own value; and merit the same prai<g ref="char:EOLhyphen"/>ses, or greater, than are given to those they follow or out go.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>I do not very well under<g ref="char:EOLhyphen"/>stand you; pray make it a little plainer to me.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>I'll make my self understood with an example. Madam <hi>Andrea,</hi> hearing Madam <hi>Cassilia</hi> cry'd up for an extraordinary fine Lady, conclu<g ref="char:EOLhyphen"/>ded the only reason for it, was, that
+<pb n="60" facs="tcp:62421:34"/>she walks remarkably slow in the streets; and for haste nor business, ne<g ref="char:EOLhyphen"/>ver goes out of her usual pace. Upon this Madam <hi>Andrea,</hi> to deserve as much applause, has taken up a custom of creeping so slow and gentle a pace, as is most ridiculous. Another hearing one of her acquaintance praise a great Lady very much, and being told, a<g ref="char:EOLhyphen"/>mong other things in discourse, that she ties her Garters above-knee, she fancying all her Fame to proceed from that, immediately begins to tie her own in the same manner. And I re<g ref="char:EOLhyphen"/>member, that being near her at a Ser<g ref="char:EOLhyphen"/>mon at the <hi>Duomo,</hi> I saw her, after a great many Grimasses, not being a<g ref="char:EOLhyphen"/>ble to endure the pain of her Garters, (which she had ty'd too hard,) and after an unusual manner, this being the first day, she stoops down and dextrously unlooses them, and ties them below-knee; but one of them (happening by some-unlucky acci<g ref="char:EOLhyphen"/>dent
+<pb n="61" facs="tcp:62421:34"/>to untye) fell to the ground, and being left behind her when she went away from the Sermon, came to my hands; but it stunk of Piss so abomi<g ref="char:EOLhyphen"/>nably, that I concluded more than once, that it must have fal'n from her Bolster, into the Chamber-pot. There are a thousand Examples of these kind of Ladies that imitate the worst, and leave out the best; which proceeds from little Judgment, want of Sense, and ill Behaviour.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>How then should a young Woman govern her self in this Beha<g ref="char:EOLhyphen"/>viour you speak of?</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>It is very happy for her, if she was born with so good a Judg<g ref="char:EOLhyphen"/>ment, that she may know how to dis<g ref="char:EOLhyphen"/>cern what is praise-worthy, from what is blameable; because then Imitation will be usefull, when one can chuse from excellent Persons their best Parts, and leave out the worst. And when one has not judgment enough, to know
+<pb n="62" facs="tcp:62421:35"/>how to make this Election, One must listen attentively, to what one hears praised or commended in others, and endeavour the imitation; and likewise one must fly or avoid what one hears most commonly blamed. In fine, it is very necessary in all that one does, to strive not to go out of the middle way, flying extremities, and avoid<g ref="char:EOLhyphen"/>ing affectation as much as possible. One may polish and dress one's self at home without reserve, there study Behaviour at the Glass, if you will: But in publick shew a sort of slight<g ref="char:EOLhyphen"/>ing, or not over-much caring for those things that are done only for Ornament; and other things which I cannot well describe, nor have I this with judgment enough; for to go rashly and carelesly in every thing, would, perhaps, be no less a Vice than Affectation.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>Can you give no particular rules for this, Madam <hi>Raffaella?</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="63" facs="tcp:62421:35"/>
+               <speaker>M. R.</speaker>
+               <p>Very hardly. But let a young Woman observe in all things the middle path (as I told you) and she cannot go amiss: besides (as I said before) she must be carefull that all her Cloaths and Fashions may shew to the best advantage, or improve those Parts of her which are the hand<g ref="char:EOLhyphen"/>somest; and, on the contrary, hide or disguise (as much as may be) those which are faulty; and let her Moti<g ref="char:EOLhyphen"/>ons also and Behaviour, as much as possible, discover the fair, and hide the foul and defective.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>I would fain have you a little more particular about what you said last of all.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>This is what I mean. Sup<g ref="char:EOLhyphen"/>pose she have good hands, let her take every opportunity of shewing them; which may be done by wash<g ref="char:EOLhyphen"/>ing, by often pulling off her Gloves, playing at Cards or Tables, or when she is Eating; or a thousand other
+<pb n="64" facs="tcp:62421:36"/>ways, that fall out every day. Has she a fair Bosom, (which is a very great Beauty in a fine Lady?) Let her dextrously take some occasion of shewing it; it is much for her repu<g ref="char:EOLhyphen"/>tation that it be known she's naturally beautifull in every part; which may appear, if in the Morning she feign sometimes to those who visit her in her Chamber, that she is just risen out of Bed, and had not time to tie her Gown about her; they will then see that her Breasts are of themselves round, smooth, and white, without help of the Pencil, or any other Tri<g ref="char:EOLhyphen"/>fles. Or Bathing in the Summer, she may shew her self naked, before she is wiped. If she has a handsome Leg, she may have a thousand opportuni<g ref="char:EOLhyphen"/>ties in the Country of shewing it, ei<g ref="char:EOLhyphen"/>ther a Fishing, Fowling, Riding, or A<g ref="char:EOLhyphen"/>lighting from her Horse, or passing any little Stream or Ditch. So if she has fine Lips, she may give a taste of
+<pb n="65" facs="tcp:62421:36"/>them by a kiss at little plays. Thus she may artificially expose her Beau<g ref="char:EOLhyphen"/>ties, and a thousand other ways, which would require too much time to speak of. If a Woman has a fine Body and Limbs, it may happen, at some of the Baths, chusing a proper time and place, that one or other may see her through some hole or crease in the Wall.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>You put me in mind of two fair Ladies that were seen naked at the Bath of <hi>Vignone,</hi> by certain young Gen<g ref="char:EOLhyphen"/>tlemen of my acquaintance.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>My meaning by all this, is, that a young Woman is to seek such occasions, and to behave her self so artificially, that it may be thought she would not have had such a thing have happen'd for all the World. For in all a Woman's words and actions, I would have it appear that she is ex<g ref="char:EOLhyphen"/>treamly honest and modest; for a Ladies most vertuous actions, if she
+<pb n="66" facs="tcp:62421:37"/>is not esteem'd honest, shall never be consider'd or valued; and, on the contrary, if she is so, every thing flou<g ref="char:EOLhyphen"/>rishes. She is not only to behave her self so (in these occasions) that people may not perceive, that what she has done, was on purpose; but she must by feign'd Blushes (if she can com<g ref="char:EOLhyphen"/>mand 'em) or by some other coun<g ref="char:EOLhyphen"/>terfeit action, seem to be displeas'd that such a thing fell out so; and she must be aware also that the same thing happen not often, at the same time and place, for fear it should be sus<g ref="char:EOLhyphen"/>pected to be done designedly. And (repeating it again) I tell you, that she must be always aware that every one of her least steps, words and acti<g ref="char:EOLhyphen"/>ons, be full of that modesty, that is so much required of Ladies.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>On one side I am much de<g ref="char:EOLhyphen"/>lighted, Madam <hi>Raffaella,</hi> with what you tell me: but, on the other hand, me thinks there is danger by this Con<g ref="char:EOLhyphen"/>duct,
+<pb n="67" facs="tcp:62421:37"/>of being thought guilty of Va<g ref="char:EOLhyphen"/>nity.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>It might be so, if you should do any of these things affectedly, or with little dexterity; but if you do them in that manner, that it may seem you was not aware of 'em, and with a little blushing and seeming to be a<g ref="char:EOLhyphen"/>shamed; it will look as if there had been a necessity of doing what you did, and will make you be thought neither vain, nor the less modest.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>Oh, but if this Vanity is hid from Men, there is no hiding it from Heaven.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>I have already told you, <hi>Margarita,</hi> and must tell you again, that we should do very well (if it were possible for us) never to com<g ref="char:EOLhyphen"/>mit the least Sin or Peccadillo, but to live like Hermits, in the midst of <hi>Pa<g ref="char:EOLhyphen"/>ter-Nosters,</hi> Rosaries and Disciplines; and I wish it were practicable, there would not be so many Sins stirring
+<pb n="68" facs="tcp:62421:38"/>in the World. But since I know clear<g ref="char:EOLhyphen"/>ly by experience, that we are born Sinners, and that we must of necessity do one of these two things; either evaporate part of our sinfull Inclina<g ref="char:EOLhyphen"/>tions, by the commission of some lit<g ref="char:EOLhyphen"/>tle errors in our Youth; or else we must do it in our Age, to our greater mischief and shame, when the repen<g ref="char:EOLhyphen"/>tance of having vainly lost our Youth, will make us fall into desperation. Now as the safest way to avoid this (other<g ref="char:EOLhyphen"/>wise) inevitable ruine, I know it to be absolutely necessary and usefull, that we waste those spirits in our younger years, when they are more easily pardon'd by Heaven; and the World more excuses our frailties, and only smiles at them. However, if you would needs have a purer Soul than all the rest of the World; if you would be singular, by keeping and maintaining your self as long as you live, free from every least fault; I
+<pb n="69" facs="tcp:62421:38"/>should be ready to comfort you in it; and to counsel you, that in order to this design (which might be a very good one) you never stirr'd out of your Chamber, but to Church; that you strictly observed all the Vigils and Advents; that you altogether despised, and avoided all manner of conversa<g ref="char:EOLhyphen"/>tion. But being certain that you can never perform all this, I advise you, my Child, (always saving your Mo<g ref="char:EOLhyphen"/>desty and Reputation,) to pass your Youth gayly, and joyfully, consider<g ref="char:EOLhyphen"/>ing that it comes but once; and that those Pleasures then rejoyce and de<g ref="char:EOLhyphen"/>light infinitely, are excused by all, and pardon'd by Heaven; (by the means of a little Holy-water,) which in Age are derided by every body; which load our Conscience, and afford but small delight. Though if, however, to secure you wholly from the dan<g ref="char:EOLhyphen"/>gers before mention'd, (the means for which, you know, I shew'd you, and
+<pb n="70" facs="tcp:62421:39"/>which I shall always advise you to, if you think them practicable;) If, I say, you would purifie your Heart, and live (as I said) without the commission of the least sin to your lives end, I shall be glad you may succeed; and leaving my former discourses, it will be ne<g ref="char:EOLhyphen"/>cessary, that instead of them, I enter<g ref="char:EOLhyphen"/>tain you with the Life of some Holy Father.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>Oh, no! Go on the way you have begun; for now I perceive, that there is no speaking well without the experience of things, and I begin to know the truth of all you say; there<g ref="char:EOLhyphen"/>fore pray go on.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>Now we have said what I thought was necessary about a Ladies Dressing, of the Gracefulness of Fashi<g ref="char:EOLhyphen"/>ons, as also of the Gentileness and Con<g ref="char:EOLhyphen"/>veniency, and of the Behaviour or Motions relating to them, with other advertisements belonging to them: We will also discourse, if you please,
+<pb n="71" facs="tcp:62421:39"/>of her Customs or Behaviour in o<g ref="char:EOLhyphen"/>ther things, which fall out every day: And first of the Care and Management of her House, and of the Maintaining of her Husband's affections, which (as I have already told you, and you shall yet better understand) is most impor<g ref="char:EOLhyphen"/>tant and necessary. And you must know, <hi>Margarita,</hi> that in all the dis<g ref="char:EOLhyphen"/>courses I have had, or shall have with you, about these things; I suppose she be young, and not past Two-and-thirty at most; for after that Age, she must go a step backward, and every thing will not be so well with her as before.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>I am satisfy'd with that, for several years must pass e'er I shall be so old.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>I believe you know, <hi>Marga<g ref="char:EOLhyphen"/>rita,</hi> that House-keeping furnishes work enough. First the Revenues come from abroad, the care of providing which, be<g ref="char:EOLhyphen"/>longs to the Man, as well as the keeping
+<pb n="72" facs="tcp:62421:40"/>it when in the House, which the Wife must agree too; for if one acquires it, and the other wastes, or mispends it, the House must fall to ruine and de<g ref="char:EOLhyphen"/>solation. Whereas, on the other side, if these two things are agreed to, every thing will go very well. As to the young Woman, I would not have her suffer Idleness, Sleep, Weariness, and Sloth to get dominion over her. Like many who lazily lye in Bed till Noon, let the affairs of the Family go as they will; and if ever the Husbands offer to expostulate with them about it, they raise their Voices, and scold like Butter-whores; and if their poor Hus<g ref="char:EOLhyphen"/>bands yet presume to make 'em any reply, they leave them to themselves, and brawl about the House like Mad-women: I would have her (I mean) commonly rise pretty early, go once or twice about the House, have an Eye on every thing, direct the Maids what they have to do for the whole
+<pb n="73" facs="tcp:62421:40"/>day, and see that every thing be in its right and appointed place, that any thing happening to be wanted, no time need be lost in the search of it: For Order is necessary in every thing, and especially in the Care and Manage<g ref="char:EOLhyphen"/>ment of a Family. In Commanding, I would have her do it in such a way, as may make the Servants perform their Work willingly, and with affecti<g ref="char:EOLhyphen"/>on, and at the same time stand suffi<g ref="char:EOLhyphen"/>ciently in awe of her too, that there may be never heard in the House the least rumour of Discord or Disobedi<g ref="char:EOLhyphen"/>ence. And not do like many, that all the live-long day grumbling at their Servants, and scolding; make their House like a Bedlam, and what they dispute about perhaps not of a penny value. One of her Maids (it may be) has been over-reach'd by two or three Figs, in the purchase of half a Pound; or some such trifle, while these lazy Shrews take no care, but wholly neg<g ref="char:EOLhyphen"/>lect
+<pb n="74" facs="tcp:62421:41"/>things of the greatest consequence. Then after she has (as I said) given Orders in the morning about every thing for the whole day, I would have her set about some work her self (as I saw you when I came in) that she may not be found idle by any that may come to her House. And her Husband returning (if he has been a<g ref="char:EOLhyphen"/>broad) she must go meet him, and shew a gladness to see him; and if she is not real, let her feign it at least; if he brings home any strangers with him, she must receive them civilly and with a good countenance; and take an opportunity of going again about the House, to order her People that they behave themselves as they ought to do, for the honour of the Fa<g ref="char:EOLhyphen"/>mily, and that they shew no confusion, and make no noise and bustle. For I have seen some, who when they have had but a Country Gentleman extra<g ref="char:EOLhyphen"/>ordinary, but a degree above a Farmer,
+<pb n="75" facs="tcp:62421:41"/>to Dine with them, behave themselves so impertinently; disgrace themselves by a deal of impertinent tattle; make such a noise and clutter with removing Chairs and Stools, and keep such a bawling all over the House, that every thing was in confusion, that no body knew what they had to do; and wearying their guest, by making him stay two hours for his Dinner; when at last it is upon the Table, they have nothing extraordinary but a little plate of Fritters and a Hache: And thus leanly they entertain him, making a thousand excuses, more troublesome than all the rest; that the poor Gentle<g ref="char:EOLhyphen"/>man is out of countenance, and sweats with vexation, till Dinner's taken away, and vows to himself, if he escape now, never to return again.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>I am almost asham'd to hear it.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>These kind of things a Wo<g ref="char:EOLhyphen"/>man must avoid as fire: She must
+<pb n="76" facs="tcp:62421:42"/>shew in all her actions (at least feign) a desire of pleasing her Husband, in doing all that she knows will be a<g ref="char:EOLhyphen"/>greeable to him, and set all her af<g ref="char:EOLhyphen"/>fections (at home) upon him, and the care of his Children, his Family, and all that belongs to him; and if this comes not from her Heart, let it seem so. For then she may spend the more boldly in Cloaths; for her Husband seeing her usefull in the rest, and ta<g ref="char:EOLhyphen"/>king pains in the House, does not only buy all these things for her willingly himself, but often exhorts her to do so too; and thus catches himself in the Web.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>What pleasures would you have her take, and how obtain and keep them?</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>You shall know every thing fully. All the pleasures that a young Woman can desire, have their chief assistance, and proceed originally from Invitations, Appointments, Banquets,
+<pb n="77" facs="tcp:62421:42"/>all publick Assemblies, and private Meetings; and these being to be had at all times, she must desire to frequent them, for the nourishment and main<g ref="char:EOLhyphen"/>tenance of those delights and plea<g ref="char:EOLhyphen"/>sures she would enjoy: of which, for your instruction, I shall speak by and by; and she must keep the earnest<g ref="char:EOLhyphen"/>ness of her inclinations to her self, though she must at the same time out<g ref="char:EOLhyphen"/>wardly declare that she naturally loves these Entertainments for the sake of in<g ref="char:EOLhyphen"/>nocent diversion she finds in them: And, to this end, let her make pro<g ref="char:EOLhyphen"/>fession of a dislike of her self for it, and chiefly shew to her Husband an anger at her own Nature in these things. So that seeing her go willing<g ref="char:EOLhyphen"/>ly to these places, he may not suspect any ill, but impute it wholly to her temper and nature, and rest with a quiet mind: And thus he will always agree to her going where she pleases, and not oppose that he thinks her na<g ref="char:EOLhyphen"/>turally
+<pb n="78" facs="tcp:62421:43"/>inclin'd to. And the better to disguise her mind, she must always shew an equal chearfulness, as well in one place as another: And though she knows, that, in some places, she shall find no pleasure at all, but ra<g ref="char:EOLhyphen"/>ther the contrary; she must not there<g ref="char:EOLhyphen"/>fore let it appear, that she has no desire of going thither, but she must go, and disguise her displeasure and uneasiness with a feign'd chearfulness. And so in other places, where she has a more than ordinary satisfaction, let her not however go a step out of her usual way, and appear more pleas'd than at other times; She ought to have the same disposition of Soul in all places (at least seemingly) that the Company, her Husband chiefly, may impute it to her Temper, Breed<g ref="char:EOLhyphen"/>ing, and to her Stars that have thus enclin'd her. And let her beware too, that a more than ordinary satisfaction, or displeasure, make her not return
+<pb n="79" facs="tcp:62421:43"/>home, more lively with joy, or more cast down with dissatisfaction than usual. Thus let her have always the same Countenance, and carefully hide the variety of her Thoughts, or the labour of her Mind.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>Oh! how wise will you make me grow, Madam <hi>Raffaella?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>You may imagin, Daughter, that years make one know things; and happy they, who by believing the aged, know them in youth.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>Proceed then, and shew me how to behave my self at these Assem<g ref="char:EOLhyphen"/>blies, and in Conversation, and what you would have done to form a most accomplish'd Woman.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>Where-ever she happens to converse either with Men or Women, let her never be moved or transported to the least motion, or to speak the least word that passes the bounds of Modesty and Honesty; for I have told you (and tell you again) it is
+<pb n="80" facs="tcp:62421:44"/>that which makes all a Woman's acti<g ref="char:EOLhyphen"/>ons flourish. Therefore let her en<g ref="char:EOLhyphen"/>deavour in all she does and says, to seem rather too reserv'd, than too bold and confident. And let her not only profess, that she is displeased with all filthiness and vices in her self, and others too, but that vertuous and handsome deeds delight her. And a<g ref="char:EOLhyphen"/>mong all the base actions that she is to avoid, I would have her chiefly endeavour not to be a Lyer, but al<g ref="char:EOLhyphen"/>ways to speak purely of things as they are, saving those that may hurt her Reputation; in which cases, it is rea<g ref="char:EOLhyphen"/>sonable to feign and dissemble one thing for another as much as she can. I also admonish her never to say any thing that may beget the least suspi<g ref="char:EOLhyphen"/>cion of ought amiss in her: Let it be her custom never to speak much, and to think of what she is about to say before it comes out of her mouth, and reflect on those things that may
+<pb n="81" facs="tcp:62421:44"/>be ask'd her, before she answers; for our City is now so full of evil tongues, that large Comments are made on every little and harmless word that's let fall, and it is very hard to defend one's self from them; but one's best way is to speak little, and with conside<g ref="char:EOLhyphen"/>ration: And a Woman should care<g ref="char:EOLhyphen"/>fully avoid falling into the reputation of having an ill tongue; which is now almost every Woman's talent, and it is a most pestilent and vile one. Let a young Woman then always search into the Actions of others, but speak well of the deserving, and not ill of any.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>Must we make no difference then in our discourse and behaviour between one that's good and vertu<g ref="char:EOLhyphen"/>ous, and one that's vitious and ill en<g ref="char:EOLhyphen"/>clin'd?</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>Yes, enough; for as I have told you, a Woman ought to value more in her mind the vertuous and
+<pb n="82" facs="tcp:62421:45"/>good, than the evil and vitious; and she should also shew some difference of civility between these and those in the reception of them, in the respects and honours paid them, and in her discourses with them too. Which will make all those that have any wit in the City, strive who shall exalt her the most; every one naturally loving and respecting those to whom they see their own Vertues are known. And this ought to be much esteem'd; for it is better to have four or five friends, whose Reputations are advanced above ther est of the Town, who can more exalt a young Woman, and put her forward in the World, than all the rest; for it is these, if she have any eminent Vertue, that are best able to know it, and to make it known to others. Whereas the rest either can<g ref="char:EOLhyphen"/>not, or will not, seem to know it; that they may, if possible, level her with the Vulgar, and guide her into
+<pb n="83" facs="tcp:62421:45"/>some ill action or other, according as they find her appetites. Now I must tell you, that I would not have her make this difference (I told you of) very great and apparent, for there might be danger lest the Vulgar should be offended at it, and make her the subject of their tattle and their stories, than which there cannot be a worse thing in the World. Yet sometimes let her with dexterity and prudence shew somewhat more of kindness and civility to them that merit most, and a little less to those that deserve not so much. Though you shew not an in<g ref="char:EOLhyphen"/>equality proportionable to their diffe<g ref="char:EOLhyphen"/>rent merits, yet the better sort will not be angry, having judgment enough to know, that you are forced to carry your self thus towards them: But, on the contrary, the others having but little understanding, would be much offended at too visible a distinction.</p>
+            </sp>
+            <sp>
+               <pb n="84" facs="tcp:62421:46"/>
+               <speaker>Mar.</speaker>
+               <p>I can never bring my mind to caress, or shew any civility, not only to the Vulgar, but to those who are publickly held of the worst repu<g ref="char:EOLhyphen"/>tation; such as your Cosen (you know well who I mean) for no Woman can endure the thoughts of her.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>I assure you she is much worse than you can think her, and no body can inform you better than I; she has all the Cardinal Vertues eminently, but she is not worth speak<g ref="char:EOLhyphen"/>ing of; it is enough that you know she has not one qualification that she ought to have, which makes her hated by all that know her, either by sight or same. To such a one, I must con<g ref="char:EOLhyphen"/>fess, a Woman is to shew no manner of civility, nor any kindness whatso<g ref="char:EOLhyphen"/>ever: but yet, for all this, I would not have her treated rudely; not that she does not deserve it, but in respect of your self, for it is an ugly blemish in a Woman to use incivilities: besides,
+<pb n="85" facs="tcp:62421:46"/>there is danger, lest (the person so u<g ref="char:EOLhyphen"/>sed) being of an evil tongue, should relate some ill story in a third person, which might glance upon you, to your hurt; though indeed she that you speak of would never be believed by any body; yet, for the greater securi<g ref="char:EOLhyphen"/>ty, let her pass without shewing her any civility, or favour, and make no manner of reckoning of her.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>Oh that you knew my aver<g ref="char:EOLhyphen"/>sion to her.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>No matter, keep it to your self, and take no notice of her in any kind, neither in good nor ill, for your own sake, not for hers: And I would also have a young Woman, if she happen to have shewn particular kind<g ref="char:EOLhyphen"/>ness or civility to any one, thinking they deserv'd it, and that afterwards she finds her self mistaken in them, (for people are not known at first sight;) I would have her, I say, not too suddenly alter her Behaviour to<g ref="char:EOLhyphen"/>wards
+<pb n="86" facs="tcp:62421:47"/>them, but let her by little and little (without being perceived) abate her kindness, and withdraw it from them every day more and more; lest they having observed her former car<g ref="char:EOLhyphen"/>riage, should be angry at the change, and therefore endeavour to revenge themselves. Wherefore you must ne<g ref="char:EOLhyphen"/>ver shew a particular civility or kind<g ref="char:EOLhyphen"/>ness; or having begun, you must go on, or draw back very dextrously; for if they were aware of the kindness, they are angry to lose it; whereas, if they have found none, they have no reason to be concern'd at what can't be call'd a loss. And take notice that I say, If once they have receiv'd any any open incivility or affront from you, they will have reason to be en<g ref="char:EOLhyphen"/>raged, and angry with you: But be<g ref="char:EOLhyphen"/>fore it comes to that, you would do well to know the truth of their deserts; for the World is now so full of perfi<g ref="char:EOLhyphen"/>dious and malicious tongues, that
+<pb n="87" facs="tcp:62421:47"/>make and publish things which seem to be as true as Gospel, and are after<g ref="char:EOLhyphen"/>wards found to have been wholly groundless, and of no moment. And this proceeds from the great envy and little business of the Youth of our time, whom idleness constrains to go about, and search into other peoples actions; and upon every slight appearance, they make silly stories, which are believed by all that hear them as Articles of Faith, when most commonly (I say) they have not one word of truth. And therefore let a Woman think well, be<g ref="char:EOLhyphen"/>fore she undertakes to fall out with any one; and let her not do like Madam <hi>Artura,</hi> who being moved by I don't know what groundless Dream or Chi<g ref="char:EOLhyphen"/>mera of her own, fancies that a young Woman of this Town the best Crea<g ref="char:EOLhyphen"/>ture living, had done her I know not what ill office; suddainly and incon<g ref="char:EOLhyphen"/>siderately she kindles her self with ha<g ref="char:EOLhyphen"/>tred against her, resolves (and with<g ref="char:EOLhyphen"/>out
+<pb n="88" facs="tcp:62421:48"/>any more adoe puts it in execu<g ref="char:EOLhyphen"/>tion) to make her some dispitefull and scurvy return (against all reason,) and such as could hardly possibly be endured, if she had really deserved ill of her, and much less now that she was not conscious of any fault towards her (as you know:) however, 'twas the others good fortune that this young Woman was so good condition'd, that she was never mov'd at it, nor was ever after wanting in her usual civili<g ref="char:EOLhyphen"/>ties to her, but honour'd and respected her in the same manner as before. However, you see the other put her self in danger, that she (knowing her self guiltless) should have been an<g ref="char:EOLhyphen"/>gry, and turn'd these injuries upon her who first gave them. And I will tell you farther, That although <hi>Artusa</hi> had been really injured by the other, as she fancied, yet she ought not to have made so vile returns; and if she would no more treat her kindly, she ought
+<pb n="89" facs="tcp:62421:48"/>not however to have shew'd her any rudeness: For, in fine, Civility stands among the other Vertues and Beauties of a Woman, as Rubies and Pearls in Gold: Besides, that in not return<g ref="char:EOLhyphen"/>ing injuries, one shews one little value for the doer of them; and there is no greater revenge, than to make no ac<g ref="char:EOLhyphen"/>count of one at all, as if there were no such person in the World.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>What need we, Madam <hi>Raf<g ref="char:EOLhyphen"/>faella,</hi> so much regard people's anger? What harm can they do a Woman? It is a common saying, <hi>Piss clear, and a Fig for the Physician.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>I do not tell you, Child, that they can do very much harm; for you must know, that a Woman's honour, or dishonour, does not prin<g ref="char:EOLhyphen"/>cipally consist in doing, or not doing a thing, but in the belief, or not be<g ref="char:EOLhyphen"/>lief, thas she does it: For Honour consists in nothing but the good opi<g ref="char:EOLhyphen"/>nion of the World; so that if a Man
+<pb n="90" facs="tcp:62421:49"/>is in secret a Thief, or a Murtherer, and is counted honest and just, he is the very same Man as to Honour and Reputation, as if he had not these Vi<g ref="char:EOLhyphen"/>ces. And so, on the contrary, being a good Man, and counted wicked, his Vertues are little less than vain and superstitious. And the like may be said of a Woman, whose Honour or Reputation does not consist, as I told you, in the Doing or not Doing a thing, for that signifies little, but in what is thought of her. Now it be<g ref="char:EOLhyphen"/>ing thus: A young Woman must be very carefull, lest any one angry with her find out some fiction or story to shame her; and though a great many who know her Vertues, and the others Baseness, will give no cre<g ref="char:EOLhyphen"/>dit to the thing: Yet there will be many others, that without looking so narrowly and minutely into it, will give full credit to it: and so the poor Innocent shall be wrongfully defamed.
+<pb n="91" facs="tcp:62421:49"/>And therefore a Woman must use all her art, I do not mean not to do the thing, but not to give occasion for any one to invent stories upon her actions. And to this end she will find it necessary, on the one side, to do no rudeness or incivilities; and, on the other, not to let her kindnesses and civilities be too particular, but let them rather seem more general: And let her reward peoples Vertues rather with an inward esteem, keep<g ref="char:EOLhyphen"/>ing them in her own breast, than by too manifest a reception of those peo<g ref="char:EOLhyphen"/>ple, or caressing of them; for other<g ref="char:EOLhyphen"/>wise too hurtfull things may follow. Evil tongues, which remark them, will perhaps raise their malicious stories up<g ref="char:EOLhyphen"/>on them: And those, it may be, (if Men) which have received these kind<g ref="char:EOLhyphen"/>nesses, will gather hopes from them of farther favours from you; and not succeeding, will think they have great reason to grieve and lament them<g ref="char:EOLhyphen"/>selves,
+<pb n="92" facs="tcp:62421:50"/>because frustrated of those hopes with which they flatter'd themselves, and may proceed farther perhaps in words or actions, or may joyn with the others to back those stories which they before had maliciously spread to defame you. Therefore a young La<g ref="char:EOLhyphen"/>dy must have a care not to do the least thing that may be taken hold of; and in all places she must be very cautious and dextrous in her Behavi<g ref="char:EOLhyphen"/>our, as at Feasts, Plays, Balls, other Entertainments and private Conferen<g ref="char:EOLhyphen"/>ces, which are now so much in vogue, but which were blamed in my time. In all these Occurrences, imagin ever, that you are in the midst of Tray<g ref="char:EOLhyphen"/>tors and Cut-throats, who all have their hopes and designs, and watch and fish for occasions to advance their own ends, or to prejudice you: Wherefore it is necessary to have a hundred Eyes, a hundred Ears, with but one Tongue, and that too a very
+<pb n="93" facs="tcp:62421:50"/>wise and cautious one: For when any word that can bear a Comment or Misconstruction is gone out of your mouth, it is never to be recalled; and therefore it is good to think of every thing in time. But now, <hi>Mar<g ref="char:EOLhyphen"/>garita,</hi> the thread of my discourse has conducted me to that part which is of greater importance than all the rest, and which I have reserv'd for the last. What I have now to say to you, must be carefully heeded; no<g ref="char:EOLhyphen"/>thing must by any means be pass'd by, for then all that I have said hither<g ref="char:EOLhyphen"/>to will be but a Cypher.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>What can that be? For me<g ref="char:EOLhyphen"/>thinks you have spoken of every thing, and happy is she that can be such a one as you form in your discourse; for my own part, I shall studiously, and with all my might endeavour to conform my self to your rules.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>That which remains to in<g ref="char:EOLhyphen"/>struct you in, is the Conduct a Lady
+<pb n="94" facs="tcp:62421:51"/>is to use towards her Lover; and Di<g ref="char:EOLhyphen"/>rections, that she may know how to chuse one from among all those that are endued with the qualifications re<g ref="char:EOLhyphen"/>quisite in a well-bred and true Lover; whom, after she has elected, she ought to love with all her Heart, and with all her Soul, and to favour and caress in such manner as you will hear be<g ref="char:EOLhyphen"/>longs to her.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>O, Madam <hi>Raffaella!</hi> would you have a young Woman trouble her head with Loves?</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>You talk like a Novice: What signifie all a Woman's Beauties, Vertues, and other Accomplishments, without Love, (which perfects, and makes every other fair part flourish?) and she will find all other pleasures and delights without it insipid and vain: For the Entertainments, and Balls, Plays, Assemblies, and other Re<g ref="char:EOLhyphen"/>creations, with all her Vertues and Beauties, without Love, are (properly
+<pb n="95" facs="tcp:62421:51"/>speaking) like a fair House in Winter without a fire, or like the Mass with<g ref="char:EOLhyphen"/>out the <hi>Pater-noster;</hi> the smallest Re<g ref="char:EOLhyphen"/>creation improves and takes force where that is; the Country, with it, seems a Paradice; the Groves, the Huntings, Fishings and Ridings, afford but dull and cold divertisement with<g ref="char:EOLhyphen"/>out Love, and with it are most sweet and delightfull. Therefore one may reasonably ask, What is Youth good for, which passes away without pro<g ref="char:EOLhyphen"/>ving the Sweets of Love? How much are they to be pity'd, who pass over Forty years (perhaps) without the per<g ref="char:EOLhyphen"/>ception of it? May they not rather be counted foolish? Truly miserable may they be esteem'd, unfortunate, and superfluous in the World. And most happy, on the contrary, are those Men and Women, who in their early Youth have learn'd, at the expence of others, to perceive the force and power of Love, and enjoy the pleasures
+<pb n="96" facs="tcp:62421:52"/>of it themselves, when in their prime, those may justly be put in the Calen<g ref="char:EOLhyphen"/>dar of the Blessed. But great Judg<g ref="char:EOLhyphen"/>ment, great Experience, much Art and Government they need, to rule and conduct themselves as they ought to do, and chiefly the Woman; be<g ref="char:EOLhyphen"/>cause the dangers that may follow any false step, are of greatest consequence to her.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>Since you say it is so, I can<g ref="char:EOLhyphen"/>not but believe it; because I have much greater Faith in you, than in my self; therefore pray tell me the Conduct a Woman is to observe for the maintenance of this Love, and by what rules she is to chuse such a one as the Lover ought to be.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>Before I tell you what quali<g ref="char:EOLhyphen"/>fications a young Man must have, that deserves to be chosen by a Lady for her true Lover; Let us discourse a little, what sort of young Men a Woman is to fly as a Serpent, for
+<pb n="97" facs="tcp:62421:52"/>knowing them first, it will be much easier to shew what good qualificati<g ref="char:EOLhyphen"/>ons a Lover should possess; and that done, we may proceed to speak of the Conduct a Woman is to observe towards them that she ought to shun, and towards him that she is to ac<g ref="char:EOLhyphen"/>cept.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>You please me very much, therefore go on.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>By my experience of the World, I find, that young Men, un<g ref="char:EOLhyphen"/>der Twenty, and Two-and-twenty al<g ref="char:EOLhyphen"/>so (which are too raw) are most dan<g ref="char:EOLhyphen"/>gerous to a Woman, and to be fled as the Devil. For want of experience, they know not how to carry on an intreague three days; they stumble over every straw; they are arrogant, and proud of their Youth; rash and scandalous, boasters and lyars most commonly; if they receive the small<g ref="char:EOLhyphen"/>est favours, they either presently vain<g ref="char:EOLhyphen"/>ly brag of them, or through inexpe<g ref="char:EOLhyphen"/>rience
+<pb n="98" facs="tcp:62421:53"/>they suffer the secret to be pump'd from them, and drawn out of their own mouths, by a thousand trappanners, that always hang about them. They are so intemperate with their joys and satisfactions, that it shines and sparkles in all their behaviour; the very Walls might perceive what they can so little contain within 'em; Or every one perhaps shall make the discovery from their anger, which is easily kindled by every trifle; and in the end they empty themselves of all the favours they have received from her, and ten times more, publishing the worst things they can think of the poor Ladies, who have given them<g ref="char:EOLhyphen"/>selves up in prey to them, and who seem to merit, being despised for trust<g ref="char:EOLhyphen"/>ing to such Fops: In fine, they are good for nothing. If by chance there shall be found some one amongst them (though they are very rare) who would be secret, he cannot possibly
+<pb n="99" facs="tcp:62421:53"/>continue so long, because (without designing it, or without perceiving it) in two days his indiscretion will disco<g ref="char:EOLhyphen"/>ver all that has befal'n him, and will give cause of suspecting much more. I confess, if it were possible, (forcing Nature) to make a young Man, in this Age, wise and secret, a Woman would do very well to love him; but there is no running that hazard; for there cannot be found one of a thousand, who is not wicked, proud, light, unconstant, vain, a boaster, haughty, scandalous, and ill-natur'd; and let a Woman fly these as much as she can, if she will not be in four or five days the talk of the whole Town.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>I know you speak the truth, for M. <hi>Donato</hi>'s Wife is for ever lost, in her Reputation, by her Cosen.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>The Old Men, <hi>Margarita,</hi> are no less to be avoided; for though they have mature and better discourse,
+<pb n="100" facs="tcp:62421:54"/>and better experience of the World, yet they have so many ill qualities and knaveries, as much over-recompence the little advantages of their experi<g ref="char:EOLhyphen"/>ence; and amongst their other bruitish qualities, they have one most villanous; that is, you cannot find one that is not ill-tongu'd and envious; and the reason of it is, that seeing they have now no longer the Lady's favours, they burst with envy, knowing, or supposing, that the smoother Sparks enjoy their Love, and sport in those Warrens where they would be ferret<g ref="char:EOLhyphen"/>ing. And if by chance some one of them have an Adventure with a Wo<g ref="char:EOLhyphen"/>man, they presently brag of it, to shew that they have not lost the Wo<g ref="char:EOLhyphen"/>men's favours, as people imagin. But why need I extend my self in speak<g ref="char:EOLhyphen"/>ing further about 'em? Suppose it possible that they were wise and secret, cautious and well-spoken, and had all the Vertues of the Soul; for all that,
+<pb n="101" facs="tcp:62421:54"/>what shall a handsome Woman do with the Love of an old, bald, drivel<g ref="char:EOLhyphen"/>ling, nasty, tiresome story-teller, with a stinking breath, and a thousand o<g ref="char:EOLhyphen"/>ther Wants, enough to make a Dog spew, and to give a Woman cause of repentance without committing the sin?</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>Tell me no more of 'em, if you love me. Who can have a liking to such a loathsome Love, must have a judgment in ill favours.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>A worse Generation, is yet that of those prating, lying, and boast<g ref="char:EOLhyphen"/>ing effeminate Dissemblers, who know not how to do any thing but perfume and paint themselves, set their hair, or tye a shooe-string; brag of what they have never had, and make Jests of Paradice. And if (for her disgrace) they have already received some un<g ref="char:EOLhyphen"/>fortunate Woman's favours, they use all their art to gain some from her at a time, that what she grants (as she
+<pb n="102" facs="tcp:62421:55"/>suppose secretly) may be taken no<g ref="char:EOLhyphen"/>tice of by some-body. And then in other company, they employ a thou<g ref="char:EOLhyphen"/>sand Crafts to make it known to them; on one side giving hints of it, but feigning that they will not tell the se<g ref="char:EOLhyphen"/>cret; and on the other, take care to say enough to make the truth suspected. In fine, they order the matter so, that one way or other the truth shall come out in a few days, either by their boasting of it, or by their impudence in some publick Assembly; when the more company there is, so much the more will they make signs, and point at the poor Lady, and seek for open favours from her; which if refused, they publickly shew their anger. They make their Addresses, that they may be seen by every-body; and if they have any return that pleases 'em, they sparkle with joy, and are guilty of a thousand extravagant follies, that the most stupid might perceive their suc<g ref="char:EOLhyphen"/>cess;
+<pb n="103" facs="tcp:62421:55"/>and she shall not go a step a<g ref="char:EOLhyphen"/>broad, that they will not be seen after her tail. This is the reason, that if a Woman has given him the slightest favours, she is forc'd presently to take them away, unless she will be the story of the World: and so they never have any Loves that last two months; and though they are forc'd to give their favours openly, they are but slighted, and scurvily us'd for't in private.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>You make me remember, Madam <hi>Raffaella,</hi> one of these im<g ref="char:EOLhyphen"/>pertinent <hi>Sineses,</hi> who throwing Le<g ref="char:EOLhyphen"/>mons to a Lady, in the presence of the Marchioness <hi>del Vasto,</hi> gave her a thousand amorous signs, with ogling looks, in hopes she would make some kind returns, which the Marchioness might see, and speak of again.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>That was by the <hi>Camollia,</hi> I knew of it: Little less to be refused is that race of young Men, who value themselves so much upon those Ac<g ref="char:EOLhyphen"/>complishments
+<pb n="104" facs="tcp:62421:56"/>complishments and Beauties, which they suppose themselves Masters of, that they think the young Ladies ought to throw themselves out of the Windows for love of them, and that the poor creatures ought to follow them. Every little thing offends them too, and they will not suffer their Mi<g ref="char:EOLhyphen"/>stresses to look on, or to speak to any but their Husbands, not their Brothers, or other Relations: In fine, they think it but reasonable, that the Ladies be their Slaves, and that all the Favours and Commands too must come from them, as if the Women were obliged in spight of their teeth to follow them. Let a Woman be sure to have no In<g ref="char:EOLhyphen"/>trigue with such as these; or she will quickly repent it, and never enjoy one good hour.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>I would know if you don't reflect particularly on the Nephew to <hi>Cavalier</hi>— you understand me.</p>
+            </sp>
+            <sp>
+               <pb n="105" facs="tcp:62421:56"/>
+               <speaker>M. R.</speaker>
+               <p>I understand you very well, the same. In the next place, I would not have a Woman give her Love to one that has a Wife: For you must know, that Love requires the whole Man; and he that will be a true Lo<g ref="char:EOLhyphen"/>ver, must strip his Soul of all other cares and thoughts, and never think on any thing day or night, but on the object of his Love: And this can<g ref="char:EOLhyphen"/>not be perform'd by a Married Man; for he is necessitated, in spite of his teeth, (if he will not be derided by every-body) to have his Soul chiefly taken up, and before all other things, with the Care of his Family, and the Love of his Wife and Children; and it is seldom that they love not their Wives, whether handsome or ugly, for continual conversation compells them to that. But if laying these con<g ref="char:EOLhyphen"/>siderations aside, they should carry all their Thoughts to the person belov'd, the shame which they would perceive
+<pb n="106" facs="tcp:62421:57"/>to follow them upon it, would quick<g ref="char:EOLhyphen"/>ly make them weary of her. And if any-body should say that they might in secret attend to their Love, and seem in publick to have their mind upon their Family; I answer, that cannot be done, and will prove it. A Lover, as I have told you, ought to keep secret all his Satisfactions and Displeasures which may happen to him in Love, and to hide them the most he can, and to shew always the same countenance in publick. But, according to the chances that may be<g ref="char:EOLhyphen"/>fall him in his Love, it is necessary (the better to feign in publick) that he evaporate and wear off, by himself, sometimes, his griefs and joys; and for this he has no fitter place than his Chamber and his Bed: For coming home, and shutting himself up in his Chamber, he may reflect by himself, and think and contrive to repair any thing that he finds to go amiss, as he
+<pb n="107" facs="tcp:62421:57"/>sees occasion, and according to his successes. And here retired, he may weep and lament, or laugh to him<g ref="char:EOLhyphen"/>self, as he sees cause; to the end, that after having thus vented a part of his Passion, (of which kind soever) he may the better hide his Thoughts in company. Now all this (as necessary as it is) a Married Man cannot do; nay, he must dissemble more at home, and in his Bed, than in any other place, to deceive his Wife; and, in the end, after a thousand precautions, He can by no means avoid giving her suspicions. Upon which she, like a Devil, broke loose, makes a tumult, and fills the House with War and Con<g ref="char:EOLhyphen"/>fusion, to find out her Rival; and once known, she shames and makes her infamous where-ever she goes: And thus follows the ruine of that Lady, his Desperation, and a thou<g ref="char:EOLhyphen"/>sand other disorders, which you will easily imagin.</p>
+            </sp>
+            <sp>
+               <pb n="108" facs="tcp:62421:58"/>
+               <speaker>Mar.</speaker>
+               <p>Would you have one, Ma<g ref="char:EOLhyphen"/>dam <hi>Raffaella,</hi> chuse a Man that has no Wife yet, but is to have one?</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>That would be the less evil of the two, but not altogether well neither. Because that when he takes one, such a Love may be said to be ended; and I would have it, when once begun, never cease, but with the Life.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>But what is she to do then, for all Men either have Wives, or are to have 'em?</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>There are some that are neither married, nor are to marry, as you will understand by and by. Now I must tell you, that the Love of Strangers is generally most dangerous, and especially of those that are but lately come hither; and I can give you infinite reasons for it, but will not tire you with 'em; it is enough for you to behold some in Madam <hi>Giachetta,</hi> Madam <hi>Leonarda, La Bara<g ref="char:EOLhyphen"/>tina,</hi>
+                  <pb n="109" facs="tcp:62421:58"/>your Neighbour next door, and some others, that you may think of: they are all indeed Women of no great Value; but see the fruits they have gather'd from such Lovers. And most pestilent also is the Love of those who are great and powerfull in a City. And I could give you numerous Ex<g ref="char:EOLhyphen"/>amples of them too, but you know them already. And not to count mi<g ref="char:EOLhyphen"/>nutely all the kinds of young Men, that are to be refused in Love; Let a Lady, in fine, fly and avoid, parti<g ref="char:EOLhyphen"/>cularly all they that have but the re<g ref="char:EOLhyphen"/>putation of being openly presumptu<g ref="char:EOLhyphen"/>ous, the tedious and tiresome prattlers, the lyers and silly, the nasty, ugly, and those that are basely born; the ill<g ref="char:EOLhyphen"/>tongu'd, the jesters, gamesters, and blasphemers, those that are too proud and affected of their beauty, the light, the impudent, and common whore<g ref="char:EOLhyphen"/>masters, the dissemblers, and the like generations of worthless wretches.</p>
+            </sp>
+            <sp>
+               <pb n="110" facs="tcp:62421:59"/>
+               <speaker>Mar.</speaker>
+               <p>Now I am inform'd what sort of Men are to be shunn'd, I would have you tell me the Qualifications re<g ref="char:EOLhyphen"/>quir'd in him, to whom a Woman's Love is due and proper.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>In the first place they must be the contrary in every thing to those we have now describ'd; I say (in few words) I would have the Man that I think worthy of a Lady's Love, to be between Two-and-twenty, and Five-and-thirty years old, but most especi<g ref="char:EOLhyphen"/>ally between Seven-and-eight-and-twen<g ref="char:EOLhyphen"/>ty; about which time, his discourse is mature, and he has already the practise and experience of all things relating to Love; and is able to guide and govern himself well, in whatever may fall out concerning it: I would have him of Noble Blood, which gives great satisfaction to a Woman. Let him be handsome, and agreeable not only in his Aspect, but in all his Per<g ref="char:EOLhyphen"/>son, and in all his Motions too: For
+<pb n="111" facs="tcp:62421:59"/>though Beauty is not the principal thing to be sought in Love, yet it is of great importance, and brings great contentment with it, when it is joyn'd with the other accomplishments requi<g ref="char:EOLhyphen"/>site. He should be civil, modest and well-bred, in every word and action, and this without any affectation. He must be respectfull, and a general de<g ref="char:EOLhyphen"/>fender of Women's honour, and espe<g ref="char:EOLhyphen"/>cially of hers: He must be stay'd and quiet in all his Behaviour: Let him always make profession of a Venera<g ref="char:EOLhyphen"/>tion for all Women, and, more or less, according to their merits: I would have him be most secret, hardly trusting himself with things of weight; and he must be cautious not only to keep secret what's of concernment, but also every smallest favour, so that there may be no Comments made upon it. Let him be as carefull as he can, ne<g ref="char:EOLhyphen"/>ver to enter into any disputes in pub<g ref="char:EOLhyphen"/>lick with her that he loves; but if by
+<pb n="112" facs="tcp:62421:60"/>any chance he is forc'd to it, let him speak his Sentiments (lest an untimely silence should give the company a suspicion,) but let him speak with the greatest civility he can; though, if possible, let him fly, and avoid with dexterity all such Conferences; for there is danger, lest they that are in the wrong should blush or turn pale, according to what they hear or speak; and he should always imagin that the company that hears them, watch ma<g ref="char:EOLhyphen"/>litiously to catch something from their mouth; and therefore let him think well of his words, before they are spo<g ref="char:EOLhyphen"/>ken. I would have him be a Man of so much judgment, as that he may know how to correct his Lady's mi<g ref="char:EOLhyphen"/>stakes sometime, and not offer to do it often in publick. Let him so arti<g ref="char:EOLhyphen"/>ficially contrive to be in her company, that he may seem to come where she is, to some other end than meeting her, and as brought thither as by force,
+<pb n="113" facs="tcp:62421:60"/>and that he does not continually fol<g ref="char:EOLhyphen"/>low her. I would have it his Cha<g ref="char:EOLhyphen"/>racter to be gentle, kind, and liberal to every-body, but particularly to the Ladies, and to dress well, gentilely, and decently, so that his fashions shew no signs of levity and little wit. I would not have him make Masks, new Liveries and Enterprizes, every day like no-body but himself. Nor would I have him avoid them altoge<g ref="char:EOLhyphen"/>ther, but make them with that conti<g ref="char:EOLhyphen"/>nence and wisdom, that no-body may know to what end they are chiefly design'd; but let him be satisfy'd, that he can seem to have his mind in one place, and holds it secretly in another. And I would not only have him be without a Wife, but also not so much as doubted that he is to have one; which should not proceed from force, like a Priest, whose shaved Crown and Habit compells him to take none. But from his choice, that he might be the
+<pb n="114" facs="tcp:62421:61"/>more free to enjoy, with all his Soul, the Love of his Mistress. In fine, I say let him with all his skill endea<g ref="char:EOLhyphen"/>vour to be known for a person gen<g ref="char:EOLhyphen"/>tile, stable, most vertuous, learned; a publick defender of Ladies, magnani<g ref="char:EOLhyphen"/>mous, civil; one that knows how to make use of opportunities when they come; let him know how to feign, and to disguise his thoughts, and let him be faithfull to his Mistress, con<g ref="char:EOLhyphen"/>stant and enflamed with the Love of her; because such a Love as this will last till Death. And above all, let him be wise, and know how to go<g ref="char:EOLhyphen"/>vern himself according as things con<g ref="char:EOLhyphen"/>tinually fall out: Because there can be no more particular rules given, but we must reser all to his judgment. Now such a one, as I have describ'd to you, the Man must be that can merit a young Woman's favour, and such a one she is to chuse.</p>
+            </sp>
+            <sp>
+               <pb n="115" facs="tcp:62421:61"/>
+               <speaker>Mar.</speaker>
+               <p>You have painted him, Ma<g ref="char:EOLhyphen"/>dam <hi>Raffaella,</hi> so excellent, that I do not believe such a one is to be found in the World.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>I know but few, in truth; and so much the more blessed is she to esteem her self, who is belov'd by such a one; and know, <hi>Margarita,</hi> that if a young Woman cannot find a Man with all these Qualifications and Accomplishments, she should use her diligence in the discovery, and then stick to him that has the most, and most considerable of them.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>That, I confess, is possible.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>We are yet to discourse how a Woman, that has such a Lover as I have form'd, is to carry her self in entertaining him, and how to govern her self with others, that are always coming about her like Bird-catchers to trappan her; for young Women cannot be so wise and discreet, but that they will be over-reach'd by others
+<pb n="116" facs="tcp:62421:62"/>sometimes; and there are some peo<g ref="char:EOLhyphen"/>ple that, if not drawn by hopes, at least out of spite, or not knowing what else to do, make it their business to hover about them.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>Then shew me how a Wo<g ref="char:EOLhyphen"/>man must defend her self, so as to a<g ref="char:EOLhyphen"/>void this trouble, and at the same time maintain the Love of him she has chosen.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>Have a care, in the first place, not to make this election too hastily; you may easily be deceiv'd, for the young Men of these days know how to feign and weep in their turns, and seem to be all honey, but after<g ref="char:EOLhyphen"/>wards prove all gall and poyson, (and even the first day they shew it;) It is necessary then to inform one's self for a month, for two, for eight, nay for a twelve-month, profoundly to consider every thing, and then all will prove well; she must resolve to receive him for her only Lover, and
+<pb n="117" facs="tcp:62421:62"/>to give him all her favours. And the Election made, she has two things to resolve in her mind; the first, as I said, to love him alone, with all her Soul, with all her Heart, above every thing that's dearest to her in the World; and to esteem every thing as a cypher in comparison of him, so that he may love her in the same manner; for, in fine, they that will be loved, must love; and this is one resolution: The other is, to endeavour with all her wit and art to keep it secret, for Secrecy is the Bond of Love. And that this may be done, it is necessary to be learn'd and skilfull in the art of feigning one thing for another, and never to speak of her Lover well nor ill (if possible) in publick; and if by chance she is forc'd to say any thing that might endanger to give any suspicion, let her be wary, and speak dextrously; for she is always to suppose that they who discourse with her about hlm,
+<pb n="118" facs="tcp:62421:63"/>do it to pump her, and try what they can discover, and fish from her; and therefore let her (as much as she can) avoid all such discourses, lest they perceive either from her blushes, or turning pale, or from other signs, the argument of her thoughts; and in all assemblies, let her be carefull not to dis<g ref="char:EOLhyphen"/>course with him too much; nor to look on him so much, or with such looks, as may be observ'd; for people now are cunning, and consider of all the ways and means that can be found, to bring about their designs. Let her endeavour therefore to entertain her true Lover in publick, with the same treatment she uses towards others that pretend to love her: For know, that it is necessary, from the very first, to have a care that nothing begin to be suspected; for when there is the least suspicion bred, either in the Husband, or in any others, the Eyes will be doubled upon her, and her Intregue
+<pb n="119" facs="tcp:62421:63"/>will infallibly, in a little while, be ei<g ref="char:EOLhyphen"/>ther wholly, or in part, discover'd. Let her walk then prudently, and ne<g ref="char:EOLhyphen"/>ver appear to her Husband, or others, but with the same temper; nor ever change her Countenance, neither through the satisfaction, or any other Passion that she feels; for many, by such signs, inform themselves now-a<g ref="char:EOLhyphen"/>days of the truth; and it is very hard for them, that have been us'd to speak or act sincerely, to temporise.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>If, Madam <hi>Raffaella,</hi> you would have them so cautious of speak<g ref="char:EOLhyphen"/>ing to their Lovers; what pleasure will they have of that Love, when they can never tell them of it; per<g ref="char:EOLhyphen"/>haps you would have them write se<g ref="char:EOLhyphen"/>cretly, which seems to me a very dan<g ref="char:EOLhyphen"/>gerous thing, because it can never be done without trusting to those that may be unfaithfull.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>It is very dangerous, and to be avoided as much as may be;
+<pb n="120" facs="tcp:62421:64"/>whereas, for one intrigue which is well guided, hundreds are ruin'd by the means of messengers: But when one is forc'd to't, having no other way to stick to, Men-servants are much fitter for it than Maids: First, because these being more whimsical, and silly, and tattling, either make discoveries them<g ref="char:EOLhyphen"/>selves, or else suffer the Secret (with<g ref="char:EOLhyphen"/>out their perceiving it) to be taken out of their mouth: Besides, one can<g ref="char:EOLhyphen"/>not carry one's self so well and evenly towards them, that for every trifle they are not angry with those that trust them, and shame them for re<g ref="char:EOLhyphen"/>venge, not fearing any hurt from the Lover, knowing that he thinks it base to hurt a Woman. In a Man<g ref="char:EOLhyphen"/>servant it is just contrary, he has un<g ref="char:EOLhyphen"/>derstanding to discourse better of the affair, and would be ashamed to take these Villanous revenges, and they are afraid too of doing it; knowing very well, that if they do not carry
+<pb n="121" facs="tcp:62421:64"/>themselves faithfully, it may be at the hazard of their lives, and for a thousand other reasons, too long to recount. Nevertheless, neither the one nor the other is to be trusted, at least they are to be reserv'd for the last remedy.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>How then is a Woman to impart her Love to her Lover?</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>I will tell you that also be<g ref="char:EOLhyphen"/>fore we separate; neither would I have them that we speak of too hasty and suddain, but patient and stay'd, and wait till opportunities come, and then that they know how to make use of them, and not let them pass by any means, lest once lost they be not to be recall'd again.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>Writing then does not please you.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>When one were sure of the caution and fidelity of a Servant, it might be done safely; and it is a great fatisfaction, provided also she is sure
+<pb n="122" facs="tcp:62421:65"/>of her Lover; and I suppose him faithfull and prudent; and there is no danger that any one should go and rummage in his Chamber and Trunks, to look for Letters, without his con<g ref="char:EOLhyphen"/>sent; if he is not already a Married Man, for he would then as well be a Captive in this as in every thing else.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>Have you not said a while ago, Madam <hi>Raffaella,</hi> that the Hus<g ref="char:EOLhyphen"/>band and his Family must be the first and chief thing that a Woman loves in this World? And now, me-thinks, you would have it quite contrary; I mean, that the Love to her Lover, ex<g ref="char:EOLhyphen"/>ceed every thing else.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>I have told you, that she should carry her self in such manner, as that he may think so: But though she give him to understand that it is thus, let her Heart and Soul be fixt, where it will be much better placed. And I repeat it to you now, that with the Husband it is sufficient she feign
+<pb n="123" facs="tcp:62421:65"/>to Love, and that is enough for them. Besides, let a Lady make profession of being gentle, kind and civil to all those she converses with, saving al<g ref="char:EOLhyphen"/>ways (in publick) her Modesty and Reputation: For besides that, Civility (as I have often told you) makes all a Woman's other Vertues flourish; it is also the occasion that she may now and then shew some Civilities to her Lover, either in discoursing with him, or in something else; which if warily managed, is imputed more to her Nature and Breeding, which in<g ref="char:EOLhyphen"/>cline her to Civility, than to any o<g ref="char:EOLhyphen"/>ther meaning. And know, <hi>Margarita,</hi> that this sort of treatment, which our young Women now shew to every one, helps them much to secure their talking sometimes with their Lovers, so that ever now and then they can discourse with them, in their Visits, at Entertainments; or sometimes in the
+<pb n="124" facs="tcp:62421:66"/>Streets they may easily say a few kind things, if they have not to do with a vain boaster; or with some silly wretch, that makes no other use of that time which is so pretious, than in saying, Yes Madam, no Madam, or where are you to go to Mass, and such foolish stuff, as would make a Dog sick to hear them. It is very necessary indeed to have a care that these Civilities, which I would have paid to every-body, be not so great, as to give them any hopes of greater favours, for much disorder might follow that; and those who had be<g ref="char:EOLhyphen"/>gan to hope, would take upon them to pursue her, and proceed so much farther in their Speeches, it may be, that she would be forc'd to withdraw that civility from them, that she might not shame her self. And their design then not succeeding, they would be offended, and endeavour to revenge
+<pb n="125" facs="tcp:62421:66"/>themselves, by doing her the greatest mischief they cou'd invent. There fore let a Woman go with wary feet; and before she shews one any particu<g ref="char:EOLhyphen"/>lar civility, let her know well who she does it to. There are a sort of greedy Priests, who, if one shew them but a finger, they presently seize the whole arm; and for every slight fa<g ref="char:EOLhyphen"/>vour, they fancy a Woman shews them, they grow so presumptuous and tirefome in their Behaviour upon it, that they become the most trouble<g ref="char:EOLhyphen"/>some and silly things in the World. There are others who more experi<g ref="char:EOLhyphen"/>enc'd or practis'd, e'en take the good as it comes, and it may be with some little favours tempt the Ladies; but contrived and managed with that dex<g ref="char:EOLhyphen"/>terity, as not to be perceiv'd by others, and scarcely seen by her self; and if they find an open passage, they pur<g ref="char:EOLhyphen"/>sue her couragiously; but finding her
+<pb n="126" facs="tcp:62421:67"/>reserv'd, they retreat, without being at all offended. And therefore (as I have already told you) one must know to whom one shews more or less Civilities, and from the beginning to cut off all the ways and passes from them that they know will go farther than they ought. I would not by any means have a Lady be envious of another's good, nor give ear to tattling, nor shew any one a dis<g ref="char:EOLhyphen"/>kindness or incivility, to dispight or please any body; as I have known many, that are continually going a<g ref="char:EOLhyphen"/>bout, spying into other peoples acti<g ref="char:EOLhyphen"/>ons, and laugh at this, and speak ill of that, and grow fat with the displea<g ref="char:EOLhyphen"/>sures of others, and enrage at their satisfactions: And these are most vile and impertinent actions, unbecoming the noble mind of a fine Lady, which engages Women that practise them into a thousand quarrels and incon<g ref="char:EOLhyphen"/>veniences,
+<pb n="127" facs="tcp:62421:67"/>nay at last brings them from a custom of mocking at their Neighbours, that they will not stick to mock at Paradice. But if a Wo<g ref="char:EOLhyphen"/>man, without her own fault, is envy'd by others her self; and if any to dis<g ref="char:EOLhyphen"/>pite her, or to please others, speak ill of her, or do not shew her a due esteem: Let her slight all this, and never so much as think of those base ill-natur'd wretches, but look to her own Vertues, and to her way of li<g ref="char:EOLhyphen"/>ving, (which I have shewn to be<g ref="char:EOLhyphen"/>long to her,) having a care always that no-body may have any reason to calumniate her. Let her keep her Secrets close as buried under-ground, and then let the World go how it will; and they that rage, e'en let 'em rage.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>You put me in mind of one of the most abandon'd to this imper<g ref="char:EOLhyphen"/>tinent Behaviour I ever knew, who to
+<pb n="128" facs="tcp:62421:68"/>dispite a Woman, when he comes to the end of her Street, he begins to sing; when he is near her House, he goes on, raising his Voice; and as soon as pass'd it, he begins to let it fall a<g ref="char:EOLhyphen"/>gain; by this means, to make it thought, that she is a party in it, though he does not expect to be heard by her, who sits quietly within, and I believe would scratch out his Eyes if she heard him.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>This is a very fine professi<g ref="char:EOLhyphen"/>on of theirs, but let 'em go. I would have this Lady of ours too, <hi>Margarita,</hi> not to be covetous, or desirous of money, although she be not very rich: For besides, that the greediness of gain being a very foul blemish in a Woman, it is most dangerous; for if any are seen to go a fishing after Presents, there shall be many that will give them, and will let something be gain'd from them, and then they are
+<pb n="129" facs="tcp:62421:68"/>quickly seen to be near her, to fol<g ref="char:EOLhyphen"/>low and apply themselves to her; for Presents receiv'd by a Lady, give a Man great encouragement and power over her: And therefore, let her re<g ref="char:EOLhyphen"/>ceive none by any means, (unless they are baubles,) but from her Lo<g ref="char:EOLhyphen"/>ver I would have her willingly receive them, and hold 'em dear; and some<g ref="char:EOLhyphen"/>times make him the same returns, that he may see she loves him, and is not covetous. Now, <hi>Margarita,</hi> I know not how to discourse with you more particularly and minutely of the rules a Woman is to observe, that she may keep her Lover long, and how to be<g ref="char:EOLhyphen"/>have her self with others. Because of the several occasions and accidents that may fall out every day, there can be no rules given for every thing. But it is sufficient for her to know, that she is to love him with as much fidelity as she can, and to keep the
+<pb n="130" facs="tcp:62421:69"/>secret to the utmost of her power; and then she can't do better than to rely in every thing on his judg<g ref="char:EOLhyphen"/>ment.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>You have been so full, that I think half that you have said would be sufficient. But I would know one thing, What favours those are, that she is to grant (when she sees an op<g ref="char:EOLhyphen"/>portunity) to the Lover that she has chosen; and how is she to secure her Honesty?</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>You talk like a Novice as you are; what Honesty do you speak of, you Simpleton?</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>O, have not you told me, that her Honesty is the first thing a Woman is to save?</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>Yes, in respect of all; but him that is loved, she must endea<g ref="char:EOLhyphen"/>vour to meet him in secret places, as often as she finds opportunities.</p>
+            </sp>
+            <sp>
+               <pb n="131" facs="tcp:62421:69"/>
+               <speaker>M. R.</speaker>
+               <p>But what is she to do in such places?</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>That, that 'tis fit for her to do: To crack Nuts do you think? sure you grow sillier than I thought you would: I mean, that when they are together, they be far from all dis<g ref="char:EOLhyphen"/>guise, and that they unite themselves with all their Souls and Bodies, and with something more, if they can.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>You talk immodestly, Ma<g ref="char:EOLhyphen"/>dam <hi>Raffaella;</hi> perhaps you would say that a Woman is to Cuckold her Husband.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>No, not so; you'll only let your Lover share with your Husband what he'll never miss.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>But is not this however to give him the Horns?</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>They might be Horns, if it were known; but keeping the thing secret, I cannot perceive what shame or injury will follow to him.</p>
+            </sp>
+            <sp>
+               <pb n="132" facs="tcp:62421:70"/>
+               <speaker>Mar.</speaker>
+               <p>I have now understood what I should never have thought; I only imagin'd that this Love should be of the Soul, and honest, for so I heard one of the <hi>Intronati</hi> say.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>How many errors are some people guilty of, to fill young peoples heads with these Castles in the Air? And you must know, they do but jest; they mean as I do, though they act this Honesty, and fill their mouths with Honesty; what Honesty? the matter goes as I tell you, whether you believe me or no.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>I don't know what to say; for on one side I think this is to injure my Husband; and on the other side, I cannot deny, but that your discourses to day have pleased me.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>You would injure him, <hi>Margarita,</hi> if you did it in such man<g ref="char:EOLhyphen"/>ner, as that he should perceive it; but he not knowing it, it is nothing in
+<pb n="133" facs="tcp:62421:70"/>the World. Oh! how all would go well if a Woman happened to be of the same condition, blood and tem<g ref="char:EOLhyphen"/>per with her Husband; when there were a just sympathy between them; and then she would have no cause to seek out for one like her self, of the same complexion, blood and thoughts. This Marriage, when the Mind is not contented, is an insipid and worthless thing, good for nothing. But, on the contrary, where there is the union of Souls, it is most Divine, and all that's good in the World.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>Are there many, Madam <hi>Raffaella,</hi> who have that sympathy of blood (that you speak of) with their Husbands?</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>They are very scarce; and this is the reason, because they take one another blindfold, without hardly having ever seen one another; and it would be a great chance if they
+<pb n="134" facs="tcp:62421:71"/>loved from the heart, and not out of ceremony and by obligation, or by force I would say.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>This is done always by the Parents in the dark; and it is a sla<g ref="char:EOLhyphen"/>vish custom, because they most com<g ref="char:EOLhyphen"/>monly joyn in Matrimony, two per<g ref="char:EOLhyphen"/>sons of contrary natures and different manners.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>What does that signifie if there is a remedy so near, and it is expedient to give one's self up wholly and in every thing to the love of one, who will abundantly recompence this displeasure that one has with a Hus<g ref="char:EOLhyphen"/>band.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>But does one not then com<g ref="char:EOLhyphen"/>mit a sin?</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>Have I not told you al<g ref="char:EOLhyphen"/>ready ten times, that if you would give up your Heart to pass your Youth and Age too without the least sin; that I advise you to it, and say that
+<pb n="135" facs="tcp:62421:71"/>you would do well? but be sure then that you have strength enough to go through with it; in which no person that was ever born did e'er succeed. And therefore, because you may not commit a greater crime, in trying to do it in your later years, I counsel you thus. And know then what will happen to you at that time, you will be to wooe others; whereas now you shall be woo'd, and then those that you would think loved you, would despise and mock you in their hearts; which at last perceiving, you would fall into desperation and repentance, for your time lost, and pass'd in vain, which is the greatest sin that can be. Consider it now, Child, while it is time, and prevent the greater fault by the commission of the less, or think it will not then avail to cry <hi>peccavi:</hi> And if in that time any one should please you, you would enjoy him
+<pb n="136" facs="tcp:62421:72"/>perhaps; but consider that you will not please him; and you are to know, that the pleasures of Love are but of little worth, when they are not reci<g ref="char:EOLhyphen"/>procal. But it is a great happiness to know, that if now you love any one, he loves you too, and does not less desire those pleasures with you, than you with him: And Souls that live otherwise, I would not give one farthing for.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>I confess you have all the reason in the World on your side, Madam <hi>Raffaella:</hi> And now I know, that it is necessary to discourse with those that can make one wise; for, methinks, I have gain'd more judg<g ref="char:EOLhyphen"/>ment, in this little time with you to day, than in my whole life before.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>I can tell thee, my dear Child, thou hadst need of it. And what did you believe? you thought perhaps that the pleasures of Love
+<pb n="137" facs="tcp:62421:72"/>consisted in being a little more or less gaz'd at, or such trifles; And woe to thee, if thy better fortune had not sent me hither. Alas! was such a Beauty as yours to grow old by the Distaff, or in the Chimny-corner? And do you think it was given you for that? Let them e'en stay there, that are deform'd and ugly as Furies, for they know not how to use the blessings of the World when they have 'em. And what, ye Simpleton, are a Woman's Beauty, and other Ac<g ref="char:EOLhyphen"/>complishments, worth, without Love? And what is Love worth without its end? they are worse than an Egg without Salt, and more insipid. Your Entertainments, Invitations, Banquets, Masks, Comedies, and all your other Recreations, are cold and frozen, without Love; and with it, they are of such comfort, and of such a sort of sweetness, that I do not believe
+<pb n="138" facs="tcp:62421:73"/>one can ever grow old amongst them. Love improves and makes every thing flourish that's fine, as Civility. Noble Blood, Gentileness of Cloathing, and Eloquence in speaking, the Motions, Graces, all the Behaviour, and every Accomplishment; and they are e<g ref="char:EOLhyphen"/>steem'd without it, but as things lost and vain. Love enflames people to Vertue; removes 'em from Vice, and from all base actions; fills the Heart with Magnanimity, brightens the Mind, quenches the Passions, makes the Life pass chearfully and satisfy'd; and, in fine, is always the occasion of good. Tell me what Consolation do you believe there shall be between two that love one another without disguise, when they meet perhaps af<g ref="char:EOLhyphen"/>ter some days tedious separation; and without any Vail, discover to each other their Hearts open, and their Thoughts pure and true, as they are,
+<pb n="139" facs="tcp:62421:73"/>recounting their past trouble, com<g ref="char:EOLhyphen"/>forting one another for what they suf<g ref="char:EOLhyphen"/>fer'd in absence; bathing themselves in one another's Faces, their Eyes o'er<g ref="char:EOLhyphen"/>flowing with abundant joy and satis<g ref="char:EOLhyphen"/>faction. O how sweet, <hi>Margarita,</hi> are those whisperings of theirs, with a low voice; those murmurings, those glan<g ref="char:EOLhyphen"/>cings, the tender fixing of their Eyes into the Center of each others: Those soft Sighs, whose Breath enters into each others Mouth, and fans their Love into a higher flame. Oh most divine! Oh most sweet! Oh! only pleasure in this World! Oh! most singular Joys, not conceiv'd, nor be<g ref="char:EOLhyphen"/>liev'd, but by those that prove 'em! Oh, <hi>Margarita!</hi> if you had prov'd them once, what Thanks would you have to give me? How you would think your self in another World; how you would deride and scorn your past life; how term those
+<pb n="140" facs="tcp:62421:74"/>Women miserable that prove 'em not. This is what one is to seek while young, and all besides is folly. This is the appointed state of Youth, which passes in vain, if not perceiv'd in time, without which it is better not to be. Nor is that true which many say, That when the pleasure's past, it is as if it had never been. It is rather, in reality, quite the contrary; and the satisfaction of having done one's duty, is almost the sweeter of the two. That sweet remembrance of time well employ'd; that thinking of every action past, the place and time, in which one has had such a Re<g ref="char:EOLhyphen"/>creation, is sweeter than the very En<g ref="char:EOLhyphen"/>joyment. And I prove it when I re<g ref="char:EOLhyphen"/>flect on past pleasures, with all their Circumstances; but am ready to de<g ref="char:EOLhyphen"/>spair, when I think that I might have had many more, that I would not have; and would not know then,
+<pb n="141" facs="tcp:62421:74"/>what now I know too late. Trust me then, <hi>Margarita;</hi> the delights and satisfactions are good, whilst they are actually enjoying, and ever after as long as life it self can last. Therefore know your self now, and consider, that after eleven or twelve years, the pleasures of Love begin to decay; think that at your Age, one day is better than a thousand; and you will not remain always in that simplicity, which you have lived in hitherto.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>Madam <hi>Raffaella,</hi> I stand a<g ref="char:EOLhyphen"/>maz'd and confounded to hear you, so much your discourse pleases me. There is only one thing that disquiets me; I think there are but few that have opportunities of meeting with their Lovers.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>You are mistaken, for there is no-body that has not opportunities sometimes; 'tis true, some fewer, and some more; for if one has an Intregue
+<pb n="142" facs="tcp:62421:75"/>whose Lover is a friend of the Hus<g ref="char:EOLhyphen"/>bands, or of any other Relations, and that has a free access to her House, they will have opportunities of talk<g ref="char:EOLhyphen"/>ing together, and of making their as<g ref="char:EOLhyphen"/>signation with safety enough; and such as these need not trust in other ways; and let them be very cautious whom they trust in Love-affairs; and, as I told you, a Man-servant is fitter for it than a Maid, who, as things might fall out, might tell all, and be<g ref="char:EOLhyphen"/>tray both parties. And it is necessary too, that they who are in Love, be not hasty, but wait patiently till op<g ref="char:EOLhyphen"/>portunities come, and then that they know how to make the right use of them, they being of so great impor<g ref="char:EOLhyphen"/>tance, and coming so seldom, let slip, or lose none of 'em. And you must know, that let a Woman have her House never so full of Relations, and they as jealous as the Devil, she may
+<pb n="143" facs="tcp:62421:75"/>find opportunities at one time or o<g ref="char:EOLhyphen"/>ther; and once found, let her present<g ref="char:EOLhyphen"/>ly advertise her Lover of the hour and place, and every thing will suc<g ref="char:EOLhyphen"/>ceed very well: That is to say, if she is shut up, suppose in her Chamber; by some means, either with a Ladder of Cords, or other Instruments, the business will succeed at some time or other. Though, in truth, if she be such a one as I have described, she will know how to govern her self so, that she will neither have her Husband nor any body else jealous of her. Some<g ref="char:EOLhyphen"/>times, in the midst of an assembly, they may feed themselves with Looks, and sweet Thoughts; and I would have you know, that when a young Woman happens to be where her Lo<g ref="char:EOLhyphen"/>ver is, it is a very delightfull thing to her, to look upon him slily some<g ref="char:EOLhyphen"/>times, and re-mind her self of all that has pass'd successfully between them,
+<pb n="144" facs="tcp:62421:76"/>laugh to her self, at others, that know nothing of it, saying to her self, Oh, what unenvy'd secret Joys I feel! Oh, <hi>Margarita,</hi> that you would try once; how would you then believe me!</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>You have enflamed me so, Madam <hi>Raffaella,</hi> with I do not know who, that I cannot contain my self: But what disturbs me most, is, that I believe there are few Lovers to be found, that are not treacherous; and therefore I am in doubts. Will you chuse me a Man, who is not such a one as may ruine and undoe me. Se<g ref="char:EOLhyphen"/>cure of this, I think those Women happy and fortunate, whose Love is fix'd on one, that has but the least part of those Accomplishments that you have given them to day; I do not expect that they should have all, be<g ref="char:EOLhyphen"/>cause I do not believe any can be found so perfect.</p>
+            </sp>
+            <sp>
+               <pb n="145" facs="tcp:62421:76"/>
+               <speaker>M. R.</speaker>
+               <p>I know of one, although they are so few.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>Happy she then that posses<g ref="char:EOLhyphen"/>ses him.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>If ever any Woman was happy in the World, you may be so, <hi>Margarita,</hi> if you are wise.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>O, how? tell me if you love me.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>It is enough, I'll tell you no more.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>Pray, Madam <hi>Raffaella,</hi> tell me; don't begin to tell one a thing, when you won't finish it.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>It is better that I should not tell you, for you will not do me any credit.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>I promise you to do you cre<g ref="char:EOLhyphen"/>dit; I have such an affection for you, that there is nothing I would not do for you.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>And so you promise me.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>And so I promise you.</p>
+            </sp>
+            <sp>
+               <pb n="146" facs="tcp:62421:77"/>
+               <speaker>M. R.</speaker>
+               <p>Give me your Faith.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>You have it, speak.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>I know one <hi>Margarita</hi> whose Heart is wounded; and never Man loved a Woman with such a Faith, and such a Heart, as he loves thee; and never was Man so endow'd with those qualifications which I have re<g ref="char:EOLhyphen"/>commended for a true Lover, and much more as he is Master of: and this I know as certainly as I am here. Now see you keep your promise with me, and that you give him your Fa<g ref="char:EOLhyphen"/>vours, which I know you have not yet given to any one.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>O, what do you tell me, Ma<g ref="char:EOLhyphen"/>dam <hi>Raffaella?</hi> will you mock me?</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>How, mock you! shall I mock one that I look on as my Daugh<g ref="char:EOLhyphen"/>ter? don't think I will ever do so.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>In fine, I cannot believe it.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>I tell you that it is thus; you feign (it may be) not to believe it,
+<pb n="147" facs="tcp:62421:77"/>that you may not keep your promise to me.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>Wou'd it were true; I should not only keep it to you, but should count my self most fortunate and happy.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>When I tell you a thing, <hi>Margarita,</hi> I will have you believe me; I can assure you that it is as I tell you, and that he enjoys not one good hour, nor yet has ever had an opportunity by any signs to make you know it; although, I believe, if you had been a little experienc'd in these things, you must at one time or other have per<g ref="char:EOLhyphen"/>ceiv'd it.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>Hold me no longer suspect<g ref="char:EOLhyphen"/>ed; tell me who he is.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>Promise me then to give him your Favours.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>That is a thing (as you have told me) which requires that his blood and condition agree and sympathise
+<pb n="148" facs="tcp:62421:78"/>with mine. But if it is as you say, it cannot be, but that they must a<g ref="char:EOLhyphen"/>gree; and I will tell you, that I feel my self already enflam'd; and a new warmth creeps all o'er me for love of him, without knowing who he is.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>Do you not know <hi>Aspasio?</hi> that is the person that I describ'd, and much more.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>Alas! <hi>Aspasio,</hi> I know him certainly; and I swear to you, that one day I thought I perceiv'd it so my self; and, to tell you the truth, I found my self I don't know in what manner, strangely enclin'd to him: But I restrained my self; first, because I thought that it was a very great fault to admit of Love. And then, because I took it for granted, that his Behaviour was but feign'd, for I have heard that he used to feign Love for other Women too; and that he never loved, but just as much as he
+<pb n="149" facs="tcp:62421:78"/>pleased; which made me look upon his Carriage, as only a shew to deceive Ladies.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>Believe me, this is the truth that I tell you; and, I confess, that he has feign'd sometimes to love Women; not to deceive them, but the better, by that means, to disguise his Love for thee.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>Indeed I cannot deny but that (according to what I have heard) he has all the qualifications and accom<g ref="char:EOLhyphen"/>plishments requisite; but indeed I have been told for certain, that he is en<g ref="char:EOLhyphen"/>flam'd, and suffers for the love of Ma<g ref="char:EOLhyphen"/>dam <hi>Giacopa,</hi> and that all his Thoughts are of her, and so 'tis generally thought.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>He does it all with art, that it may not be imagin'd where his Soul is truly fix'd; and it is lately enough since he began to discover this Love; for still he spake to you at the Enter<g ref="char:EOLhyphen"/>tainment, that was made hard by your
+<pb n="150" facs="tcp:62421:79"/>House a while ago, he had not the con<g ref="char:EOLhyphen"/>fidence to shew the least appearance of it: Except that a little before, he trust<g ref="char:EOLhyphen"/>ed, and made me his Confident; for he looks upon me as his Mother. Now it would be a great matter if he could but trust to my House, but I question whether he could do it safely or no.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>In fine then if it is thus, I bless my Stars for it, and I will be wise for the future, and will not let this Ad<g ref="char:EOLhyphen"/>venture pass: But will return the Love he bears me with greater, if I can; and the rather, because I found my self first enclining to him: but those things frighten'd me (as I told you.) But now that I know by your discourse, that a young Woman is necessitated, that she may avoid a greater fault, to evapo<g ref="char:EOLhyphen"/>rate the spirits somewhat in Youth; and your telling me for certain these dear things of my <hi>Aspasio,</hi> gives me new life.</p>
+            </sp>
+            <sp>
+               <pb n="151" facs="tcp:62421:79"/>
+               <speaker>M. R.</speaker>
+               <p>O, how good a resolution is yours! Heavens bless you! Oh! happy you! Perhaps you have no con<g ref="char:EOLhyphen"/>venience, and want one; I will be she who will never be wanting (for the benefit of you both) to do always what-ever I see may turn to your joy, satisfaction, and reputation, that you may not repent you.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>How, that I repent me! I tell you that I find my self, at this time, kindled in such a manner, that I pray God all may go well, and that I may know how to contain my self with all the joy that I feel about me. And pray, if you love me, see that to mor<g ref="char:EOLhyphen"/>row pass not e'er you speak to my <hi>Aspasio,</hi> and tell him the success of your discourses, and return to give me an answer.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>Let me alone for that.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>Oh, happy me!</p>
+            </sp>
+            <sp>
+               <pb n="152" facs="tcp:62421:80"/>
+               <speaker>M. R.</speaker>
+               <p>Thou may'st truly call thy self most happy and blessed, who, in the flower of thy Youth, shalt possess a Lover in the flower of his: O most fortunate couple of Lovers! You most handsome, and he very handsome; you kind and secret, he fond and cau<g ref="char:EOLhyphen"/>tious; you most Constant, and he Constancy it self; you most Faithfull, and he Fidelity it self. Both young, wise, gentle, enclin'd to Love, vertu<g ref="char:EOLhyphen"/>ous, noble, and well-bred. Heaven prosper you, keep you in health, and enflame you with the Love of one a<g ref="char:EOLhyphen"/>nother; remove all scandal and dan<g ref="char:EOLhyphen"/>ger (that can fall out in the enjoyment of your Loves) far from you; and in their room furnish you with means, and send you often opportunities of meeting. And, in fine, maintain you all your lives fortunate and happy; and I shall constantly, in my Devoti<g ref="char:EOLhyphen"/>ons, pray for all this. Now, for the
+<pb n="153" facs="tcp:62421:80"/>present, I will be gone, for it seems to me a thousand years 'till I bring you good news; and I can hardly contain my joy, that I have been to day the occasion of the happy life that so gentle a couple are to lead.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>Go then, Madam <hi>Raffaella,</hi> and return again quickly, for I shall think of nothing else in the mean time.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>You must be aware, that your Husband do not perceive any change in your mind or behaviour.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>My Husband is not in <hi>Siena;</hi> and if he were, I know how to be wise enough for him, if Fortune prove not contrary to me.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>Fortune always helps them that help themselves, and Love always helps every thing: Therefore have a good heart, shame not your self, and then doubt nothing.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>Adieu, Madam <hi>Raffaella,</hi> I re<g ref="char:EOLhyphen"/>commend my self to your manage<g ref="char:EOLhyphen"/>ment.</p>
+            </sp>
+            <sp>
+               <pb n="154" facs="tcp:62421:81"/>
+               <speaker>M. R.</speaker>
+               <p>Enough, enough. Adieu.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>Hark! hark! Madam <hi>Raffa<g ref="char:EOLhyphen"/>ella!</hi> a word with you: If you will have any Provisions home with you, or any thing else that I have, ask for them.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>I'll tell you when I return to morrow; and think of every thing.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>In short, what-ever is in the House, is at your Service.</p>
+            </sp>
+            <sp>
+               <speaker>M. R.</speaker>
+               <p>I thank you, Daughter, there will be time enough for every thing. Now remain in peace, my Head is al<g ref="char:EOLhyphen"/>together upon your business.</p>
+            </sp>
+            <sp>
+               <speaker>Mar.</speaker>
+               <p>And I shall reward you. Go in a good hour.</p>
+            </sp>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:62421:81"/>
+         </div>
+      </body>
+   </text>
+</TEI>
